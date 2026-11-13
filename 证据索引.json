@@ -1,0 +1,77 @@
+{
+  "historical_cases": [
+    {
+      "id": "7693510647572647211",
+      "historical_card": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/内容卡/7693510647572647211.md",
+      "source": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/evidence/7693510647572647211/source.json",
+      "coverage": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/evidence/7693510647572647211/coverage.json",
+      "asr": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/audio/1b271c8341f6e151/transcript.json",
+      "seen_sheets_historical": [
+        "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/evidence/7693510647572647211/fullspan-1.jpg",
+        "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/evidence/7693510647572647211/fullspan-2.jpg",
+        "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/evidence/7693510647572647211/fullspan-3.jpg",
+        "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/evidence/7693510647572647211/fullspan-4.jpg",
+        "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/evidence/7693510647572647211/fullspan-5.jpg"
+      ],
+      "read_this_turn": "card and source/coverage navigation only",
+      "live_refresh": "NONE"
+    },
+    {
+      "id": "7693194659752906022",
+      "historical_card": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/内容卡/7693194659752906022.md",
+      "source": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/evidence/7693194659752906022/source.json",
+      "coverage": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/evidence/7693194659752906022/coverage.json",
+      "asr": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/audio/9d38d565924a0f8c/transcript.json",
+      "seen_sheets_historical": [
+        "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/evidence/7693194659752906022/fullspan-1.jpg",
+        "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/evidence/7693194659752906022/fullspan-2.jpg",
+        "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/evidence/7693194659752906022/fullspan-3.jpg",
+        "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/evidence/7693194659752906022/fullspan-4.jpg",
+        "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/evidence/7693194659752906022/fullspan-5.jpg"
+      ],
+      "read_this_turn": "card and source/coverage navigation only",
+      "live_refresh": "NONE"
+    },
+    {
+      "id": "7693058916783050035",
+      "historical_card": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/内容卡/7693058916783050035.md",
+      "source": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/evidence/7693058916783050035/source.json",
+      "coverage": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/evidence/7693058916783050035/coverage.json",
+      "asr": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/cache/audio/96de51db1cb93cb3/transcript.json",
+      "seen_sheets_historical": [
+        "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/evidence/7693058916783050035/fullspan-1.jpg",
+        "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/evidence/7693058916783050035/fullspan-2.jpg",
+        "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/evidence/7693058916783050035/fullspan-3.jpg",
+        "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/evidence/7693058916783050035/fullspan-4.jpg",
+        "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/evidence/7693058916783050035/fullspan-5.jpg"
+      ],
+      "read_this_turn": "card and source/coverage navigation only",
+      "live_refresh": "NONE"
+    }
+  ],
+  "account_identity": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/指定5账号近两月-20261009/5账号身份映射.json",
+  "task": "/Volumes/EXTERNAL/自媒体/流程协作/01-研究热点与选题/内容雷达首轮-20261012.md",
+  "gate_command": "python3 流程协作/workflow_gate.py check --content content-radar-20261012 --stage 01 --thread 01a11442-a6d9-7413-88b3-191ce5cb037b",
+  "current_source": {
+    "id": "7694280596605052005",
+    "source": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/evidence/7694280596605052005/source.json",
+    "asr": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/audio/b95dc5b485d19d68/transcript.json",
+    "coverage": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/读取覆盖.json",
+    "fullspan": [
+      "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/evidence/7694280596605052005/fullspan-1.jpg",
+      "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/evidence/7694280596605052005/fullspan-2.jpg",
+      "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/evidence/7694280596605052005/fullspan-3.jpg",
+      "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/evidence/7694280596605052005/fullspan-4.jpg",
+      "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/evidence/7694280596605052005/fullspan-5.jpg"
+    ],
+    "early": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/evidence/7694280596605052005/samples-1.jpg",
+    "raw_browser_receipts": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/采集原始回执.json"
+  },
+  "primary_event_lead": {
+    "url": "https://siliconvalleygirl.beehiiv.com/p/do-it-five-times-then-automate-it",
+    "date_in_search_snippet": "2026-10-02",
+    "read_level": "SEARCH_SNIPPET_ONLY; OPEN_FAILED",
+    "event_in_latest_7days": "NO by snippet date; exact original release not verified",
+    "source_type": "interview publisher newsletter lead, not OpenAI official product announcement"
+  }
+}

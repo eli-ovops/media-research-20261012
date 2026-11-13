@@ -1,0 +1,85 @@
+{
+  "official_events": [
+    {
+      "id": "openai-audio-20261006",
+      "publisher": "OpenAI",
+      "date": "2026-10-06",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "section": "October 6 Audio uploads in ChatGPT",
+      "read_level": "官方正文已读",
+      "verified": "支持音频文件转录、总结与问答；有套餐/地区/客户端/工作区条件；转录可能出错",
+      "local_test": "NOT_EXECUTED",
+      "platform_spread": "UNKNOWN"
+    },
+    {
+      "id": "openai-ui-20261007",
+      "publisher": "OpenAI",
+      "date": "2026-10-07",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "section": "October 7 GPT-6 and Intelligent UI in ChatGPT",
+      "read_level": "官方正文已读",
+      "verified": "Chat中的回答可用图示/交互元素；此次不改变Work/Codex模型；Pro推理选项不支持Intelligent UI",
+      "local_test": "NOT_EXECUTED",
+      "platform_spread": "UNKNOWN"
+    },
+    {
+      "id": "anthropic-haiku-20261007",
+      "publisher": "Anthropic",
+      "date": "2026-10-07",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "section": "Introduction, performance, pricing, availability and further updates",
+      "read_level": "官方正文已读",
+      "verified": "发布Haiku5.5，定位短、重复、成本敏感任务；复杂代码任务仍区分更大模型；不能把厂商性能宣称当本人测试",
+      "local_test": "NOT_EXECUTED",
+      "platform_spread": "UNKNOWN"
+    }
+  ],
+  "backup_profiles": [
+    {
+      "name": "卡尔的AI沃茨",
+      "account_id": "88851320170",
+      "profile": "https://www.douyin.com/user/MS4wLjABAAAAEzzpje5yWF2u-fVb77MLTlBdIgcWGKu0_WtMsyje5mStjRmOXgQ78WGY7D-ilFnT",
+      "result": "身份可读，作品319，目录服务异常，未取新片"
+    },
+    {
+      "name": "麦克说AI",
+      "account_id": "89106176878",
+      "profile": "https://www.douyin.com/user/MS4wLjABAAAAXzGOUofHeY-fHBsCuoulvoVoyAR66gmqd7lJboWwS9LFz2M91G2xw-Ad68Ffs4bg",
+      "result": "身份/目录可读，最多3条，未新深读",
+      "items": [
+        {
+          "id": "7679798289026134399",
+          "title": "豆包Agent喂饭教程，自动拆解爆款视频",
+          "url": "https://www.douyin.com/video/7679798289026134399",
+          "date": "2026-08-30 20:19",
+          "date_source": "10-09已核原页，当前只复用日期",
+          "visible_raw_number": "10",
+          "in_window": false
+        },
+        {
+          "id": "7679477954040673449",
+          "title": "一小时搓个人工作台",
+          "url": "https://www.douyin.com/video/7679477954040673449",
+          "date": "2026-08-29 23:36",
+          "date_source": "10-09已核原页，当前只复用日期",
+          "visible_raw_number": "169",
+          "in_window": false
+        },
+        {
+          "id": "7677992118283218422",
+          "title": "机器人都能跳正太摇？？！",
+          "url": "https://www.douyin.com/video/7677992118283218422",
+          "date": "UNKNOWN",
+          "visible_raw_number": "4",
+          "in_window": "UNKNOWN"
+        }
+      ]
+    }
+  ],
+  "excluded_extra_event": {
+    "date": "2026-10-09",
+    "topic": "Codex Composer predictions",
+    "verified": "官方正文已读，但非本轮3个优先选题",
+    "reason": "窄功能、账号/客户端条件，拍摄价值低于录音和交互回答；不扩充为第4候选"
+  }
+}

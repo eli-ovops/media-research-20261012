@@ -1,0 +1,539 @@
+{
+  "retained": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/README.md",
+      "bytes": 1521,
+      "sha256": "570a422e0d68aa9cff4bd0598cb0d24fe263a2e729e986b5c1e074c09e0cafaa",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/allowed-files.json",
+      "bytes": 101,
+      "sha256": "2b05d21ca3a9daed417a0493fca08109c2715b56349192cdc09eff2a393778ab",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/audio/b95dc5b485d19d68/cpp.txt",
+      "bytes": 6589,
+      "sha256": "423f7ab26b741f19d57690aa9392d27bf8461f97978beff5029ba44278236b17",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/audio/b95dc5b485d19d68/cpp.vtt",
+      "bytes": 10008,
+      "sha256": "a0f18c9d3f64a2cf90a3a111b3eb7f7e0e41f0b4376ad0205a7206dd3f4f1200",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/audio/b95dc5b485d19d68/transcript.json",
+      "bytes": 21417,
+      "sha256": "ae0ee9f32ace4b6058f9004dc39367ea5c25dfad948e1566057015cb993bbd43",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0001.jpg",
+      "bytes": 18668,
+      "sha256": "e5ff5842aef335780dd2ce4ca5ee5f03a8566bd55d044a8ecb3f91090aaa82d8",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0002.jpg",
+      "bytes": 24583,
+      "sha256": "5b174546c8dbaba79fbe8b18dbba6b149787dc1aa4fc012b2fd503d952c134c9",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0003.jpg",
+      "bytes": 17861,
+      "sha256": "1739c4f897f00ce3527678c59269438171717d95f1e438c99dccefffd738a00e",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0004.jpg",
+      "bytes": 18519,
+      "sha256": "b1a75f18d22dfa00b31c2a08fa630f1c68e4995b38e36c8b2d6bc973a4eac4e9",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0005.jpg",
+      "bytes": 16190,
+      "sha256": "82373b21c623dd5ddef924974f08476805a1d0c9cb5088e22b0ba87d57d4ead5",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0006.jpg",
+      "bytes": 20113,
+      "sha256": "0db199aa1004866907eeb3ac59e[REDACTED_PHONE]b636387e8b9d5dd0d89dd883cd",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0007.jpg",
+      "bytes": 11554,
+      "sha256": "13a465d2c46cd95696b3224db2e48dd390ca6360c272681b1c7196d701730f01",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0008.jpg",
+      "bytes": 18705,
+      "sha256": "39155791004acabbdd49c1acd65755f791d72cda6134c25d9fcbe18e496d6d8f",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0009.jpg",
+      "bytes": 21613,
+      "sha256": "8b7e3345e1772c23e78fc20ec827aad60cdc1b4363e1f04720f9a105022a841f",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0010.jpg",
+      "bytes": 22455,
+      "sha256": "bd9148bac9f4330462ead150a0050d7a807730d10c3e42402089da72cc5f1dfb",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0011.jpg",
+      "bytes": 21253,
+      "sha256": "4a62ee7e09caf3b7cf3a893ea6b199c411e920406b18587db5cfb07a5f9dfa8a",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0012.jpg",
+      "bytes": 21960,
+      "sha256": "40125f8feec75bd32afe3f9bc6c738a93fe5aeb3a4d74cc07aba4f770f14a7be",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0013.jpg",
+      "bytes": 20138,
+      "sha256": "01b9733976637f583681782109fc66b682afcee2c636170e8519aecf693568ba",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0014.jpg",
+      "bytes": 19645,
+      "sha256": "9d4bc4d5b324f8abb13a5ccc99bcfdc3b6e854286e46edf8a2e03088f8ca5b2f",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0015.jpg",
+      "bytes": 22953,
+      "sha256": "d1f310f3e888318d355866d190d78b6e57e1ea0cdbbed74fff0da8a9534c158a",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0016.jpg",
+      "bytes": 18600,
+      "sha256": "6f9f6495e0b7b55a7ba3d70ed3241ffd5ffd1fe2b73fb957f934680400a60e35",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0017.jpg",
+      "bytes": 20872,
+      "sha256": "4c3472fadb9d6932d56acc92ad1152d33976fc476bb72ece328974219367d6fe",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0018.jpg",
+      "bytes": 20727,
+      "sha256": "93969dd54f64b43cdcbb3601a979ad8ee70caea30d01f882834a043c3601864c",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0019.jpg",
+      "bytes": 22601,
+      "sha256": "a2dcc12a81a92a831c9d6a37fd9bc15d4c32038114ea579ab58cf94072c4ad10",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0020.jpg",
+      "bytes": 20344,
+      "sha256": "83263de66f31d445b961a9382001b49ce9facb621c78cbf77fd4e3848cead003",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0021.jpg",
+      "bytes": 20992,
+      "sha256": "90573a30a0b621f5acde21e1c30ce1daa53840d3f1764bbbf4a4efcf92f35b8b",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0022.jpg",
+      "bytes": 23638,
+      "sha256": "39cb4210da62831c3a134d0e49ffca8fc2360a7350dda9c86c70c8b80b15b30c",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0023.jpg",
+      "bytes": 26754,
+      "sha256": "96b9a7fc01298422c393924e4a96f57bffa56c0bf1846d357eedb9fc1a501942",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0024.jpg",
+      "bytes": 23328,
+      "sha256": "5a445c39d91f137b356e5cb4665249dc85cda33703621e98e635904575f1f86d",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0025.jpg",
+      "bytes": 16621,
+      "sha256": "d9d2a2fedfedea0ac6cc4f34bea181e57bb0c7c258bca31f7668840caf341102",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0026.jpg",
+      "bytes": 19188,
+      "sha256": "cccf780f9eca1daa14f6714a3de9d3438b833bb3811dbc5a965eea3df5bb4e81",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0027.jpg",
+      "bytes": 23389,
+      "sha256": "2f5806070896389c918b659e5d3eb5673b8c05ad697e2ae8c2725217c2337e92",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0028.jpg",
+      "bytes": 16220,
+      "sha256": "af7c2228f78c6ae8ba6f3a2b4f1a3d7436131217dcb365655d148859294eec41",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0029.jpg",
+      "bytes": 22940,
+      "sha256": "b50f0412223d84a64d72f2f9f8eb9c92bb2fa1318306e9e4d5068a2402e2ec90",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0030.jpg",
+      "bytes": 19299,
+      "sha256": "5c9b389dd12fea8694a9728164483e9bf3ccdb83bfcd101b04452b9b78f4a26b",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/times.json",
+      "bytes": 450,
+      "sha256": "93d0a3c6783f3e5123d07c2f799713e1088fe871c0a883aed8cea1be23d42972",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0001.jpg",
+      "bytes": 19784,
+      "sha256": "0f0c7758eb6f9f801d8af5e8ea241d9a0421322e025c0839580ca4fb0f615b43",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0001_inline.jpg",
+      "bytes": 10282,
+      "sha256": "dd03ce9ce0af05fdd1593cf3a255f15c3ee68ee8009fb663a16e1552762c1b7b",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0002.jpg",
+      "bytes": 21096,
+      "sha256": "2e9ce3a283597feb32c37b0e97756a262bed4fc3bbc2879ca0e5c011bb3e2a5c",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0003.jpg",
+      "bytes": 34995,
+      "sha256": "60e6176507194f109a4b8d091362aa83b0663b0b978e38bbebce3d2f73354404",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0004.jpg",
+      "bytes": 32551,
+      "sha256": "d73bb5832d257c8202d20a4b8565db6d9a6ed72251ae88ee7621c8d50182c929",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0005.jpg",
+      "bytes": 20750,
+      "sha256": "42c516604a87d422e8b60c1f2272d54f04243cd2a4eb39344c53213e5f990ab5",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0006.jpg",
+      "bytes": 24181,
+      "sha256": "0583c54eb1ae9808f70d0a402086c9467b0ca5709503f0d889b6f2bb36fab909",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0007_inline.jpg",
+      "bytes": 11701,
+      "sha256": "a2d1c95dcd917498939a47b04aaab5a3905b2049b6297a41d5d129ea1c7e9992",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0013_inline.jpg",
+      "bytes": 8575,
+      "sha256": "8ee1bfb0511cafc93eeb6e4bb05288f21d8bd7e2141b3ad7c90a628c8400f9e2",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0018_inline.jpg",
+      "bytes": 11708,
+      "sha256": "8fc2cdf57d7839e4da1c43eaebc4ed71a5d86ccf45099d42151a0e5808850275",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0024_inline.jpg",
+      "bytes": 8599,
+      "sha256": "326368e9fda6899d04d32d9c4e1a867adee5086205eb8edcbc20c09210f41e3d",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0030_inline.jpg",
+      "bytes": 7835,
+      "sha256": "9649404a1483665a1e5f0f38da3fa2e1db0f15914d71e1b85830751a2445954d",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/times.json",
+      "bytes": 93,
+      "sha256": "f42a1cacd9accfa76eca84f0961a915102063892cce4c1fb0fb91c1260614f6c",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/evidence/7694280596605052005/analyze.json",
+      "bytes": 191623,
+      "sha256": "8c6a98d50068e22da19b49157e337d9f92451cd46a7c3cd1315acb4fdc3a6195",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/evidence/7694280596605052005/analyze.log",
+      "bytes": 29429,
+      "sha256": "528a2eee84d3f1aee9877fc58d0b5069817bb386fb42345b7949fa5c316645da",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/evidence/7694280596605052005/burst-fullspan.json",
+      "bytes": 15024,
+      "sha256": "8259cff43089dc6fb588aaf84f1266bc6f31c15e34d7f29e384e2e3f94eb04a4",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/evidence/7694280596605052005/burst-fullspan.log",
+      "bytes": 6491,
+      "sha256": "39d00034f848ae487e0e6ff143f5f008e1eb96b843efe374b5f1462ee5b1bd02",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/evidence/7694280596605052005/fullspan-1.jpg",
+      "bytes": 107774,
+      "sha256": "a3f6945fc352301a796ec44ea43c9e19142493597143fab2ab4f397a0d36dc5e",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/evidence/7694280596605052005/fullspan-2.jpg",
+      "bytes": 108708,
+      "sha256": "605373f576944a8689f49b148099a837e34105a369bccfebaf1674e77049a6cf",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/evidence/7694280596605052005/fullspan-3.jpg",
+      "bytes": 108809,
+      "sha256": "213e4bf13b804ddefa5e5f848542b0c305b6fc862be9580fe0c5dec3988dc04c",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/evidence/7694280596605052005/fullspan-4.jpg",
+      "bytes": 118911,
+      "sha256": "441ddf85f6f1f1b108fdb96309cdbbc75f2cac82cf39ed2ab38b95f44d863d72",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/evidence/7694280596605052005/fullspan-5.jpg",
+      "bytes": 104961,
+      "sha256": "ff4525d18929564a55ccecf18fbf6fc7437607819e77b48d4765b43ab2698be0",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/evidence/7694280596605052005/fullspan.request.json",
+      "bytes": 100,
+      "sha256": "86187cacef21992f0108c5349a220857f821fa4d403cf7b33b44f26b5cf8c8c6",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/evidence/7694280596605052005/info.json",
+      "bytes": 1150,
+      "sha256": "1567c15b6b7ae13c12d17b661195c5b6a99751e2a14f46297c6a7c6683c287f8",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/evidence/7694280596605052005/info.log",
+      "bytes": 667,
+      "sha256": "c49b01ed46ad14ad3b28a3be8eea319d9af9fa0016237db76c6a5e695902b604",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/evidence/7694280596605052005/samples-1.jpg",
+      "bytes": 130125,
+      "sha256": "a582887e2ab4213c6993c92b90155438fcfe6eea373a6318869709b2d53985fe",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/evidence/7694280596605052005/source.json",
+      "bytes": 595,
+      "sha256": "8ade2bc7663b21066fe530c24ff2a48998dbc19d7fe5344b626c864a1302437c",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/evidence-helper.py",
+      "bytes": 5260,
+      "sha256": "82ac9527a9d7ae7bba2bc8e6d2744c3cbbd7e703e66817835444b90b6e1e7879",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/launch.mjs",
+      "bytes": 1755,
+      "sha256": "8ce95303fad3f346cff7c0a4465c160e134f3c7f22b0fe8753fd281c9784a0c3",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/media/7694280596605052005.mp4",
+      "bytes": 8275835,
+      "sha256": "f65916560a2cd16c160c23c8c8cc42745c1354c73de879fd9d9b58e995d776a1",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/offline-process.py",
+      "bytes": 974,
+      "sha256": "7d067f0e49e31739ae4d3534948f910dbb68b177e716917a40328150961e96f5",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/read-public-video.mjs",
+      "bytes": 2647,
+      "sha256": "d679ebbb124b35398eafaf7e28c1e25a227c3e0a52259abe4fe704451fa5450a",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/回执.json",
+      "bytes": 4057,
+      "sha256": "cd6abcbe860ac4901e86b0e8091145880696025b8220fd47e5f8cb713f5ed745",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/样本.json",
+      "bytes": 3995,
+      "sha256": "7c001c4e36777a40af345e258a89258907119a58d857ff20a92ce09a44ddd1d2",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/缓存清理回执.json",
+      "bytes": 14891,
+      "sha256": "c9452ed9182a0b43bf429e917cdd506984d80b3e0cdfcbc5d505af4be78c8105",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/证据索引.json",
+      "bytes": 6505,
+      "sha256": "537b9fcdbef5d96863a1e7e377215c85f6d0d1241405f58cb7df0272d0a94a77",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/读取覆盖.json",
+      "bytes": 2016,
+      "sha256": "21a227cc0aa7c72e2bc11057919026355404948e11e90b77a786f7fd762c5c04",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/采集原始回执.json",
+      "bytes": 74453,
+      "sha256": "1e8e9f69941c5971bfb51ef21fdd4f7cdc47d1763fa644131f4fccba66f8e041",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/门禁初始缺项回执.json",
+      "bytes": 2778,
+      "sha256": "7eeea666cfe633e309f45dff2640a9d9467578eb9efe95f70a2bf340f2e27745",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/雷达简报.md",
+      "bytes": 6683,
+      "sha256": "b77c75c70729ad63ac406ec65e421b127b3ceb0d0d44e6be28e49e5c4efc87db",
+      "source_and_purpose": "本轮研究、验收证据及本地只读工具；仍需交付复核",
+      "retained": true
+    }
+  ],
+  "deleted_file_receipt": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/缓存清理回执.json",
+  "temporary_files_reviewed": true,
+  "historical_files_deleted": false
+}

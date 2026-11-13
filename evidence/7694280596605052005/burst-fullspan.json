@@ -1,0 +1,194 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\n  \"frames\": [\n    {\n      \"index\": 0,\n      \"timeSec\": 0,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0001.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 1,\n      \"timeSec\": 16.265833333333333,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0002.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 2,\n      \"timeSec\": 32.531666666666666,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0003.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 3,\n      \"timeSec\": 48.7975,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0004.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 4,\n      \"timeSec\": 65.06333333333333,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0005.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 5,\n      \"timeSec\": 81.32916666666667,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0006.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 6,\n      \"timeSec\": 97.595,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0007.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 7,\n      \"timeSec\": 113.86083333333333,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0008.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 8,\n      \"timeSec\": 130.12666666666667,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0009.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 9,\n      \"timeSec\": 146.3925,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0010.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 10,\n      \"timeSec\": 162.65833333333333,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0011.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 11,\n      \"timeSec\": 178.92416666666668,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0012.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 12,\n      \"timeSec\": 195.19,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0013.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 13,\n      \"timeSec\": 211.45583333333335,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0014.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 14,\n      \"timeSec\": 227.72166666666666,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0015.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 15,\n      \"timeSec\": 243.9875,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0016.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 16,\n      \"timeSec\": 260.25333333333333,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0017.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 17,\n      \"timeSec\": 276.51916666666665,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0018.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 18,\n      \"timeSec\": 292.785,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0019.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 19,\n      \"timeSec\": 309.05083333333334,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0020.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 20,\n      \"timeSec\": 325.31666666666666,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0021.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 21,\n      \"timeSec\": 341.5825,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0022.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 22,\n      \"timeSec\": 357.84833333333336,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0023.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 23,\n      \"timeSec\": 374.1141666666667,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0024.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 24,\n      \"timeSec\": 390.38,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0025.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 25,\n      \"timeSec\": 406.6458333333333,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0026.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 26,\n      \"timeSec\": 422.9116666666667,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0027.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 27,\n      \"timeSec\": 439.1775,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0028.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 28,\n      \"timeSec\": 455.4433333333333,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0029.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 29,\n      \"timeSec\": 471.70916666666665,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0030.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    }\n  ]\n}"
+    }
+  ],
+  "structuredContent": {
+    "frames": [
+      {
+        "index": 0,
+        "timeSec": 0,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0001.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 1,
+        "timeSec": 16.265833333333333,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0002.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 2,
+        "timeSec": 32.531666666666666,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0003.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 3,
+        "timeSec": 48.7975,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0004.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 4,
+        "timeSec": 65.06333333333333,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0005.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 5,
+        "timeSec": 81.32916666666667,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0006.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 6,
+        "timeSec": 97.595,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0007.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 7,
+        "timeSec": 113.86083333333333,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0008.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 8,
+        "timeSec": 130.12666666666667,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0009.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 9,
+        "timeSec": 146.3925,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0010.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 10,
+        "timeSec": 162.65833333333333,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0011.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 11,
+        "timeSec": 178.92416666666668,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0012.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 12,
+        "timeSec": 195.19,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0013.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 13,
+        "timeSec": 211.45583333333335,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0014.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 14,
+        "timeSec": 227.72166666666666,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0015.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 15,
+        "timeSec": 243.9875,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0016.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 16,
+        "timeSec": 260.25333333333333,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0017.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 17,
+        "timeSec": 276.51916666666665,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0018.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 18,
+        "timeSec": 292.785,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0019.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 19,
+        "timeSec": 309.05083333333334,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0020.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 20,
+        "timeSec": 325.31666666666666,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0021.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 21,
+        "timeSec": 341.5825,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0022.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 22,
+        "timeSec": 357.84833333333336,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0023.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 23,
+        "timeSec": 374.1141666666667,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0024.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 24,
+        "timeSec": 390.38,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0025.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 25,
+        "timeSec": 406.6458333333333,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0026.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 26,
+        "timeSec": 422.9116666666667,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0027.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 27,
+        "timeSec": 439.1775,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0028.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 28,
+        "timeSec": 455.4433333333333,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0029.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 29,
+        "timeSec": 471.70916666666665,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/cd7deb8ab73b1725/burst/frame_0030.jpg",
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "inlineCount": 0,
+    "inlineIndices": []
+  }
+}

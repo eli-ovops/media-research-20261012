@@ -1,0 +1,1374 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\n  \"info\": {\n    \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/media/7694280596605052005.mp4\",\n    \"source\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/media/7694280596605052005.mp4\",\n    \"sourceKind\": \"local\",\n    \"durationSec\": 488.175,\n    \"width\": 768,\n    \"height\": 576,\n    \"fps\": 30,\n    \"videoCodec\": \"hevc\",\n    \"audioCodec\": \"aac\",\n    \"hasAudio\": true,\n    \"hasVideo\": true,\n    \"bitrate\": 135620,\n    \"sizeBytes\": 8275835,\n    \"formatName\": \"mov,mp4 (AVFoundation adapter)\"\n  },\n  \"transcript\": {\n    \"segments\": [\n      {\n        \"start\": 0,\n        \"end\": 6.54,\n        \"text\": \"假设世界上最好的程序源 今天就在你公司里 而且随时可以为你工作\"\n      },\n      {\n        \"start\": 6.54,\n        \"end\": 8.54,\n        \"text\": \"你会让他做什么\"\n      },\n      {\n        \"start\": 8.54,\n        \"end\": 12.06,\n        \"text\": \"这个问题来自 Greg Brockman 的一次常访谈\"\n      },\n      {\n        \"start\": 12.06,\n        \"end\": 15.58,\n        \"text\": \"后文会区分原始观点和本篇分析\"\n      },\n      {\n        \"start\": 15.58,\n        \"end\": 21.46,\n        \"text\": \"Greg 提到 最强的编程模型已经强到 他自己越来越少亲手协软件\"\n      },\n      {\n        \"start\": 21.46,\n        \"end\": 28.3,\n        \"text\": \"更多时候 他是在告诉 AI 要做什么 在不断反馈 纠编 把标准网上抬\"\n      },\n      {\n        \"start\": 28.3,\n        \"end\": 33.1,\n        \"text\": \"当一个接近顶级的数字团队 逐渐成为更多人的公共能力\"\n      },\n      {\n        \"start\": 33.1,\n        \"end\": 38.02,\n        \"text\": \"差距会落到另一个地方 你把这份能力用在了什么问题上\"\n      },\n      {\n        \"start\": 38.02,\n        \"end\": 43.62,\n        \"text\": \"你当然可以让 AI 改邮件 做总结 搭业面 这些都有价值\"\n      },\n      {\n        \"start\": 43.62,\n        \"end\": 47.62,\n        \"text\": \"但如果能力已经大幅提升 我们就该继续追问\"\n      },\n      {\n        \"start\": 47.62,\n        \"end\": 52.86,\n        \"text\": \"有没有什么问题 过去因为太贵 太慢 所以连想都不敢想\"\n      },\n      {\n        \"start\": 52.86,\n        \"end\": 57.06,\n        \"text\": \"这就是最容易被忽略的反转 工具已经很强了\"\n      },\n      {\n        \"start\": 57.06,\n        \"end\": 61.22,\n        \"text\": \"可我们交给他的任务 可能还停留在最小的一层\"\n      },\n      {\n        \"start\": 61.22,\n        \"end\": 65.66,\n        \"text\": \"GriG 说得很克制 我们都可以把野心的上线抬高\"\n      },\n      {\n        \"start\": 65.66,\n        \"end\": 71.38,\n        \"text\": \"我更愿意把它理解成 重新审视那些过去受制于成本 团队和时间\"\n      },\n      {\n        \"start\": 71.38,\n        \"end\": 73.18,\n        \"text\": \"根本碰不起的问题\"\n      },\n      {\n        \"start\": 73.18,\n        \"end\": 77.78,\n        \"text\": \"访谈里GriG 举了一个很具体的例子 一家鼓动表电\"\n      },\n      {\n        \"start\": 77.78,\n        \"end\": 81.42,\n        \"text\": \"这个例子特别好 因为它离科技公司很远\"\n      },\n      {\n        \"start\": 81.42,\n        \"end\": 84.98,\n        \"text\": \"老板的第一反应很正常 我就是卖鼓动表的\"\n      },\n      {\n        \"start\": 84.98,\n        \"end\": 89.3,\n        \"text\": \"AI跟我有什么关系 可GriG没有继续解释技术\"\n      },\n      {\n        \"start\": 89.3,\n        \"end\": 94.82,\n        \"text\": \"而是换了一个问法 换成如果世界上最好的程序员已经为你工作\"\n      },\n      {\n        \"start\": 94.82,\n        \"end\": 98.82,\n        \"text\": \"老板就能想到具体事情 先做一个真正能用的网站\"\n      },\n      {\n        \"start\": 98.82,\n        \"end\": 103.9,\n        \"text\": \"再为每一块表建立页面 把年代 设计和故事讲清楚\"\n      },\n      {\n        \"start\": 103.9,\n        \"end\": 107.58,\n        \"text\": \"把这件事在拆开 先整理表款资料\"\n      },\n      {\n        \"start\": 107.58,\n        \"end\": 111.53999999999999,\n        \"text\": \"再写清历史故事 然后做成独立页面\"\n      },\n      {\n        \"start\": 111.53999999999999,\n        \"end\": 116.25999999999999,\n        \"text\": \"最后让故客更容易减所和理解 过去这套工作很重\"\n      },\n      {\n        \"start\": 116.25999999999999,\n        \"end\": 120.58,\n        \"text\": \"现在第一次可能做得起 过去很多事情没有发生\"\n      },\n      {\n        \"start\": 120.58,\n        \"end\": 125.1,\n        \"text\": \"未必是因为他们没有价值 常常只是交付成本太高\"\n      },\n      {\n        \"start\": 125.1,\n        \"end\": 128.54,\n        \"text\": \"没有程序员 没有设计师 没有研究时间\"\n      },\n      {\n        \"start\": 128.54,\n        \"end\": 131.42,\n        \"text\": \"一个好想法就只能停在纸上\"\n      },\n      {\n        \"start\": 131.42,\n        \"end\": 138.9,\n        \"text\": \"把这度强拆开看 通常至少有四层 开发 设计 研究和持续投入的时间\"\n      },\n      {\n        \"start\": 138.9,\n        \"end\": 143.78,\n        \"text\": \"AI不止替其中一个人提诉 他同时压低了几层门砍\"\n      },\n      {\n        \"start\": 143.78,\n        \"end\": 149.7,\n        \"text\": \"这里要纠正一个误解 AI什么都能做 不等于它会自动告诉你什么值得做\"\n      },\n      {\n        \"start\": 149.7,\n        \"end\": 156.06,\n        \"text\": \"工具越通用 第一句话 反而越难写 这就是访谈里谈到的空白液问题\"\n      },\n      {\n        \"start\": 156.06,\n        \"end\": 160.46,\n        \"text\": \"如果你也卡在空白液 不用先学100个提示词\"\n      },\n      {\n        \"start\": 160.46,\n        \"end\": 165.78,\n        \"text\": \"先问四件事 什么每天重复 哪里最容易出错\"\n      },\n      {\n        \"start\": 165.78,\n        \"end\": 168.66,\n        \"text\": \"那些需求因为人手不够被放弃\"\n      },\n      {\n        \"start\": 168.66,\n        \"end\": 172.26,\n        \"text\": \"那些事有价值 却一直跪到不值得做\"\n      },\n      {\n        \"start\": 172.26,\n        \"end\": 175.86,\n        \"text\": \"接下来是整场访谈里最值得创业者重视的一层\"\n      },\n      {\n        \"start\": 175.86,\n        \"end\": 181.3,\n        \"text\": \"当软件开发越来越普及 真正稀缺的会更多的回到现实世界\"\n      },\n      {\n        \"start\": 181.3,\n        \"end\": 183.66,\n        \"text\": \"GRAG用教育举例\"\n      },\n      {\n        \"start\": 183.66,\n        \"end\": 186.46,\n        \"text\": \"你不能只说我要做一个教育AI\"\n      },\n      {\n        \"start\": 186.46,\n        \"end\": 193.66,\n        \"text\": \"因为真实世界里同时有学生 老师 家长 学校管理者 还有採购与制度约束\"\n      },\n      {\n        \"start\": 193.66,\n        \"end\": 199.46,\n        \"text\": \"学生在乎好不好用 老师在乎能不能进入教学流程 家长在乎结果\"\n      },\n      {\n        \"start\": 199.46,\n        \"end\": 203.26,\n        \"text\": \"学校管理者还要考虑何归 採购和责任\"\n      },\n      {\n        \"start\": 203.26,\n        \"end\": 205.86,\n        \"text\": \"只理解模型能力 远远不够\"\n      },\n      {\n        \"start\": 205.86,\n        \"end\": 209.46,\n        \"text\": \"业面可以快速生成 代码也会越来越便宜\"\n      },\n      {\n        \"start\": 209.46,\n        \"end\": 214.66,\n        \"text\": \"但现实工作里还有沟通 採购 责任和信任\"\n      },\n      {\n        \"start\": 214.66,\n        \"end\": 218.46,\n        \"text\": \"这些东西不会因为模型升级就自动消失\"\n      },\n      {\n        \"start\": 218.46,\n        \"end\": 224.26,\n        \"text\": \"把GRAG的意思换成更直白的话 一个产品至少要回答四个现实问题\"\n      },\n      {\n        \"start\": 224.26,\n        \"end\": 230.66,\n        \"text\": \"谁会用 谁愿意付钱 谁承担风险 谁有权决定採购和成功标准\"\n      },\n      {\n        \"start\": 230.66,\n        \"end\": 234.26,\n        \"text\": \"顺着这个逻辑会出现一次很重要的变化\"\n      },\n      {\n        \"start\": 234.26,\n        \"end\": 238.46,\n        \"text\": \"过去 离代码最近的人更容易拥有产品权\"\n      },\n      {\n        \"start\": 238.46,\n        \"end\": 244.26,\n        \"text\": \"现在 离问题最近的人 也有能力把自己的行业判断做成产品\"\n      },\n      {\n        \"start\": 244.26,\n        \"end\": 251.06,\n        \"text\": \"AI可以帮你写代码 做研究 整理资料 但它不能让你屏空拥有十年的行业经验\"\n      },\n      {\n        \"start\": 251.06,\n        \"end\": 257.06,\n        \"text\": \"那些看起来合理 实际根本推不动的地方 通常只有离现场进的人知道\"\n      },\n      {\n        \"start\": 257.06,\n        \"end\": 262.86,\n        \"text\": \"有了问题距离 下一步还要判断 你的价值是建立在模型持续进步上\"\n      },\n      {\n        \"start\": 262.86,\n        \"end\": 265.86,\n        \"text\": \"还是只建立在模型今天的缺陷上\"\n      },\n      {\n        \"start\": 265.86,\n        \"end\": 271.26,\n        \"text\": \"顺着GRAG的逻辑 我会加一道压力测试 假设模型再强时辈\"\n      },\n      {\n        \"start\": 271.26,\n        \"end\": 274.46,\n        \"text\": \"你的产品会更值钱 还是更不值钱\"\n      },\n      {\n        \"start\": 274.46,\n        \"end\": 279.06,\n        \"text\": \"第一 模型补上今天的能力缺口 你的功能还剩什么\"\n      },\n      {\n        \"start\": 279.06,\n        \"end\": 282.26,\n        \"text\": \"第二 客户能不能轻易绕开你\"\n      },\n      {\n        \"start\": 282.26,\n        \"end\": 288.86,\n        \"text\": \"第三 你有没有真实流程 数据和交付结果 证明自己不只是一个包装层\"\n      },\n      {\n        \"start\": 288.86,\n        \"end\": 295.26,\n        \"text\": \"第一 类产品 用提示词 规则和人工补丁 绕过模型今天做不到的事\"\n      },\n      {\n        \"start\": 295.26,\n        \"end\": 302.06,\n        \"text\": \"第二 类产品 把模型接近真实流程 持续积累数据 交付关系和信任\"\n      },\n      {\n        \"start\": 302.06,\n        \"end\": 305.26,\n        \"text\": \"模型越强 两者的命运越不一样\"\n      },\n      {\n        \"start\": 305.26,\n        \"end\": 313.35,\n        \"text\": \"更耐久的东西 通常不是一段提示词 而是6类资产 用户理解 行业关系 独特数据真实\"\n      },\n      {\n        \"start\": 313.35,\n        \"end\": 315.66,\n        \"text\": \"流程 交付能力和信任\"\n      },\n      {\n        \"start\": 315.66,\n        \"end\": 319.46,\n        \"text\": \"模型越能做事 这些资产越能被放大\"\n      },\n      {\n        \"start\": 319.46,\n        \"end\": 324.86,\n        \"text\": \"把这一张压成一句话 护成和别见在AI今天做不到的地方\"\n      },\n      {\n        \"start\": 324.86,\n        \"end\": 329.26,\n        \"text\": \"更好的状态是 AI越能做 你手里的东西越值钱\"\n      },\n      {\n        \"start\": 329.26,\n        \"end\": 333.46,\n        \"text\": \"访谈里 主持人Marena把另一个机会总结得很准确\"\n      },\n      {\n        \"start\": 333.46,\n        \"end\": 339.46,\n        \"text\": \"过去只能做为一个功能存在的小问题 今天可能第一次足以支撑一门独立生意\"\n      },\n      {\n        \"start\": 339.46,\n        \"end\": 341.65999999999997,\n        \"text\": \"Grag 当场表示认同\"\n      },\n      {\n        \"start\": 341.65999999999997,\n        \"end\": 344.86,\n        \"text\": \"Grag 把经济比做一个分型\"\n      },\n      {\n        \"start\": 344.86,\n        \"end\": 353.26,\n        \"text\": \"进入医疗 制造 教育 或专业服务 继续放大 会看到越来越细的岗位 任务和低效流程\"\n      },\n      {\n        \"start\": 353.26,\n        \"end\": 356.06,\n        \"text\": \"过去他们太小 现在未必\"\n      },\n      {\n        \"start\": 356.06,\n        \"end\": 361.86,\n        \"text\": \"律师 保险经济人 供应链专家 制造工程师 财税顾问\"\n      },\n      {\n        \"start\": 361.86,\n        \"end\": 365.46,\n        \"text\": \"过去可能离问题很近 确离产品很远\"\n      },\n      {\n        \"start\": 365.46,\n        \"end\": 369.06,\n        \"text\": \"现在AI正在缩短中间这段距离\"\n      },\n      {\n        \"start\": 369.06,\n        \"end\": 375.26,\n        \"text\": \"比如保险资料反复合对 供应链一场反复追踪 财税财料反复规矩\"\n      },\n      {\n        \"start\": 375.26,\n        \"end\": 380.26,\n        \"text\": \"这些问题单次不大 但只要高屏 可交付有人愿意付钱\"\n      },\n      {\n        \"start\": 380.26,\n        \"end\": 382.66,\n        \"text\": \"就可能从功能长成产品\"\n      },\n      {\n        \"start\": 382.66,\n        \"end\": 387.46,\n        \"text\": \"所谓复合型人才 并不需要一个人重新学完所有专业\"\n      },\n      {\n        \"start\": 387.46,\n        \"end\": 392.65999999999997,\n        \"text\": \"更现实的组合是 在一个行业里扎得够深 能定一问题\"\n      },\n      {\n        \"start\": 392.65999999999997,\n        \"end\": 397.06,\n        \"text\": \"再用AI接上过去够不到的研究 设计和开发能力\"\n      },\n      {\n        \"start\": 397.06,\n        \"end\": 400.26,\n        \"text\": \"观点讲到这里 最重要的是怎么落地\"\n      },\n      {\n        \"start\": 400.26,\n        \"end\": 406.65999999999997,\n        \"text\": \"GRAG给的方法其实很普遂 从一个小痛点开始 先自己把流程跑通\"\n      },\n      {\n        \"start\": 406.65999999999997,\n        \"end\": 411.06,\n        \"text\": \"GRAG建议 先亲手做 最好连续跑三到五遍\"\n      },\n      {\n        \"start\": 411.06,\n        \"end\": 414.65999999999997,\n        \"text\": \"因为只有真的做过 你才知道哪些动作稳定\"\n      },\n      {\n        \"start\": 414.65999999999997,\n        \"end\": 418.65999999999997,\n        \"text\": \"哪些地方需要判断 哪些异常必须交回给人\"\n      },\n      {\n        \"start\": 418.65999999999997,\n        \"end\": 423.06,\n        \"text\": \"更具体一点 选一个小痛点 手工完成第一次\"\n      },\n      {\n        \"start\": 423.06,\n        \"end\": 427.06,\n        \"text\": \"重复三到五遍 标出稳定步骤和判断点\"\n      },\n      {\n        \"start\": 427.06,\n        \"end\": 431.86,\n        \"text\": \"在自动化确定部分 最后保留异常处理和人工复合\"\n      },\n      {\n        \"start\": 431.86,\n        \"end\": 434.86,\n        \"text\": \"顺着这套方法 人机边界就清楚了\"\n      },\n      {\n        \"start\": 434.86,\n        \"end\": 438.66,\n        \"text\": \"机器接住稳定 重复 可检查的动作\"\n      },\n      {\n        \"start\": 438.66,\n        \"end\": 442.86,\n        \"text\": \"人负责目标 例外和责任 人没有被删掉\"\n      },\n      {\n        \"start\": 442.86,\n        \"end\": 445.06,\n        \"text\": \"只是把注意力放回了判断\"\n      },\n      {\n        \"start\": 445.06,\n        \"end\": 448.06,\n        \"text\": \"所以 自动化的顺序很重要\"\n      },\n      {\n        \"start\": 448.06,\n        \"end\": 452.06,\n        \"text\": \"先把正确的事情做出来 再把正确的事情自动化\"\n      },\n      {\n        \"start\": 452.06,\n        \"end\": 457.46,\n        \"text\": \"流程本身都没搞明白 系统愈快 错误只会扩散的愈快\"\n      },\n      {\n        \"start\": 457.46,\n        \"end\": 461.46,\n        \"text\": \"把整场访谈压缩下来 只需要记住三个判断\"\n      },\n      {\n        \"start\": 461.46,\n        \"end\": 466.26,\n        \"text\": \"第一 别指问AI为什么 要问什么问题值得解决\"\n      },\n      {\n        \"start\": 466.26,\n        \"end\": 469.65999999999997,\n        \"text\": \"第二 别把价值见在模型缺陷上\"\n      },\n      {\n        \"start\": 469.65999999999997,\n        \"end\": 473.06,\n        \"text\": \"第三 先手工跑对 再自动化\"\n      },\n      {\n        \"start\": 473.06,\n        \"end\": 475.26,\n        \"text\": \"最后 再回到开头\"\n      },\n      {\n        \"start\": 475.26,\n        \"end\": 478.86,\n        \"text\": \"如果世界上最好的程序员 今天就为你工作\"\n      },\n      {\n        \"start\": 478.86,\n        \"end\": 480.86,\n        \"text\": \"你最想让他解决什么\"\n      },\n      {\n        \"start\": 480.86,\n        \"end\": 483.26,\n        \"text\": \"别从下一个AI工具开始\"\n      },\n      {\n        \"start\": 483.26,\n        \"end\": 488.06,\n        \"text\": \"先写下那个你已经忍了很久 过去又做不起的问题\"\n      }\n    ],\n    \"language\": \"zh\",\n    \"source\": \"whisper.cpp\",\n    \"fullText\": \"假设世界上最好的程序源 今天就在你公司里 而且随时可以为你工作 你会让他做什么 这个问题来自 Greg Brockman 的一次常访谈 后文会区分原始观点和本篇分析 Greg 提到 最强的编程模型已经强到 他自己越来越少亲手协软件 更多时候 他是在告诉 AI 要做什么 在不断反馈 纠编 把标准网上抬 当一个接近顶级的数字团队 逐渐成为更多人的公共能力 差距会落到另一个地方 你把这份能力用在了什么问题上 你当然可以让 AI 改邮件 做总结 搭业面 这些都有价值 但如果能力已经大幅提升 我们就该继续追问 有没有什么问题 过去因为太贵 太慢 所以连想都不敢想 这就是最容易被忽略的反转 工具已经很强了 可我们交给他的任务 可能还停留在最小的一层 GriG 说得很克制 我们都可以把野心的上线抬高 我更愿意把它理解成 重新审视那些过去受制于成本 团队和时间 根本碰不起的问题 访谈里GriG 举了一个很具体的例子 一家鼓动表电 这个例子特别好 因为它离科技公司很远 老板的第一反应很正常 我就是卖鼓动表的 AI跟我有什么关系 可GriG没有继续解释技术 而是换了一个问法 换成如果世界上最好的程序员已经为你工作 老板就能想到具体事情 先做一个真正能用的网站 再为每一块表建立页面 把年代 设计和故事讲清楚 把这件事在拆开 先整理表款资料 再写清历史故事 然后做成独立页面 最后让故客更容易减所和理解 过去这套工作很重 现在第一次可能做得起 过去很多事情没有发生 未必是因为他们没有价值 常常只是交付成本太高 没有程序员 没有设计师 没有研究时间 一个好想法就只能停在纸上 把这度强拆开看 通常至少有四层 开发 设计 研究和持续投入的时间 AI不止替其中一个人提诉 他同时压低了几层门砍 这里要纠正一个误解 AI什么都能做 不等于它会自动告诉你什么值得做 工具越通用 第一句话 反而越难写 这就是访谈里谈到的空白液问题 如果你也卡在空白液 不用先学100个提示词 先问四件事 什么每天重复 哪里最容易出错 那些需求因为人手不够被放弃 那些事有价值 却一直跪到不值得做 接下来是整场访谈里最值得创业者重视的一层 当软件开发越来越普及 真正稀缺的会更多的回到现实世界 GRAG用教育举例 你不能只说我要做一个教育AI 因为真实世界里同时有学生 老师 家长 学校管理者 还有採购与制度约束 学生在乎好不好用 老师在乎能不能进入教学流程 家长在乎结果 学校管理者还要考虑何归 採购和责任 只理解模型能力 远远不够 业面可以快速生成 代码也会越来越便宜 但现实工作里还有沟通 採购 责任和信任 这些东西不会因为模型升级就自动消失 把GRAG的意思换成更直白的话 一个产品至少要回答四个现实问题 谁会用 谁愿意付钱 谁承担风险 谁有权决定採购和成功标准 顺着这个逻辑会出现一次很重要的变化 过去 离代码最近的人更容易拥有产品权 现在 离问题最近的人 也有能力把自己的行业判断做成产品 AI可以帮你写代码 做研究 整理资料 但它不能让你屏空拥有十年的行业经验 那些看起来合理 实际根本推不动的地方 通常只有离现场进的人知道 有了问题距离 下一步还要判断 你的价值是建立在模型持续进步上 还是只建立在模型今天的缺陷上 顺着GRAG的逻辑 我会加一道压力测试 假设模型再强时辈 你的产品会更值钱 还是更不值钱 第一 模型补上今天的能力缺口 你的功能还剩什么 第二 客户能不能轻易绕开你 第三 你有没有真实流程 数据和交付结果 证明自己不只是一个包装层 第一 类产品 用提示词 规则和人工补丁 绕过模型今天做不到的事 第二 类产品 把模型接近真实流程 持续积累数据 交付关系和信任 模型越强 两者的命运越不一样 更耐久的东西 通常不是一段提示词 而是6类资产 用户理解 行业关系 独特数据真实 流程 交付能力和信任 模型越能做事 这些资产越能被放大 把这一张压成一句话 护成和别见在AI今天做不到的地方 更好的状态是 AI越能做 你手里的东西越值钱 访谈里 主持人Marena把另一个机会总结得很准确 过去只能做为一个功能存在的小问题 今天可能第一次足以支撑一门独立生意 Grag 当场表示认同 Grag 把经济比做一个分型 进入医疗 制造 教育 或专业服务 继续放大 会看到越来越细的岗位 任务和低效流程 过去他们太小 现在未必 律师 保险经济人 供应链专家 制造工程师 财税顾问 过去可能离问题很近 确离产品很远 现在AI正在缩短中间这段距离 比如保险资料反复合对 供应链一场反复追踪 财税财料反复规矩 这些问题单次不大 但只要高屏 可交付有人愿意付钱 就可能从功能长成产品 所谓复合型人才 并不需要一个人重新学完所有专业 更现实的组合是 在一个行业里扎得够深 能定一问题 再用AI接上过去够不到的研究 设计和开发能力 观点讲到这里 最重要的是怎么落地 GRAG给的方法其实很普遂 从一个小痛点开始 先自己把流程跑通 GRAG建议 先亲手做 最好连续跑三到五遍 因为只有真的做过 你才知道哪些动作稳定 哪些地方需要判断 哪些异常必须交回给人 更具体一点 选一个小痛点 手工完成第一次 重复三到五遍 标出稳定步骤和判断点 在自动化确定部分 最后保留异常处理和人工复合 顺着这套方法 人机边界就清楚了 机器接住稳定 重复 可检查的动作 人负责目标 例外和责任 人没有被删掉 只是把注意力放回了判断 所以 自动化的顺序很重要 先把正确的事情做出来 再把正确的事情自动化 流程本身都没搞明白 系统愈快 错误只会扩散的愈快 把整场访谈压缩下来 只需要记住三个判断 第一 别指问AI为什么 要问什么问题值得解决 第二 别把价值见在模型缺陷上 第三 先手工跑对 再自动化 最后 再回到开头 如果世界上最好的程序员 今天就为你工作 你最想让他解决什么 别从下一个AI工具开始 先写下那个你已经忍了很久 过去又做不起的问题\"\n  },\n  \"frames\": [\n    {\n      \"index\": 0,\n      \"timeSec\": 0,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0001.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 1,\n      \"timeSec\": 4,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0002.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 2,\n      \"timeSec\": 8,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0003.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 3,\n      \"timeSec\": 12,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0004.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 4,\n      \"timeSec\": 16,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0005.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 5,\n      \"timeSec\": 20,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0006.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 6,\n      \"timeSec\": 24,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0007.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 7,\n      \"timeSec\": 28,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0008.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 8,\n      \"timeSec\": 32,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0009.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 9,\n      \"timeSec\": 36,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0010.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 10,\n      \"timeSec\": 40,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0011.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 11,\n      \"timeSec\": 44,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0012.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 12,\n      \"timeSec\": 48,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0013.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 13,\n      \"timeSec\": 52,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0014.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 14,\n      \"timeSec\": 56,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0015.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 15,\n      \"timeSec\": 60,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0016.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 16,\n      \"timeSec\": 64,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0017.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 17,\n      \"timeSec\": 68,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0018.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 18,\n      \"timeSec\": 72,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0019.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 19,\n      \"timeSec\": 76,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0020.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 20,\n      \"timeSec\": 80,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0021.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 21,\n      \"timeSec\": 84,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0022.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 22,\n      \"timeSec\": 88,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0023.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 23,\n      \"timeSec\": 92,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0024.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 24,\n      \"timeSec\": 96,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0025.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 25,\n      \"timeSec\": 100,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0026.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 26,\n      \"timeSec\": 104,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0027.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 27,\n      \"timeSec\": 108,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0028.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 28,\n      \"timeSec\": 112,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0029.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    },\n    {\n      \"index\": 29,\n      \"timeSec\": 116,\n      \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0030.jpg\",\n      \"mimeType\": \"image/jpeg\",\n      \"width\": 0,\n      \"height\": 0\n    }\n  ],\n  \"timeline\": [\n    {\n      \"timeSec\": 0,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #0 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0001.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0001.jpg\"\n    },\n    {\n      \"timeSec\": 0,\n      \"kind\": \"speech\",\n      \"text\": \"假设世界上最好的程序源 今天就在你公司里 而且随时可以为你工作\"\n    },\n    {\n      \"timeSec\": 4,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #1 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0002.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0002.jpg\"\n    },\n    {\n      \"timeSec\": 6.54,\n      \"kind\": \"speech\",\n      \"text\": \"你会让他做什么\"\n    },\n    {\n      \"timeSec\": 8,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #2 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0003.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0003.jpg\"\n    },\n    {\n      \"timeSec\": 8.54,\n      \"kind\": \"speech\",\n      \"text\": \"这个问题来自 Greg Brockman 的一次常访谈\"\n    },\n    {\n      \"timeSec\": 12,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #3 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0004.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0004.jpg\"\n    },\n    {\n      \"timeSec\": 12.06,\n      \"kind\": \"speech\",\n      \"text\": \"后文会区分原始观点和本篇分析\"\n    },\n    {\n      \"timeSec\": 15.58,\n      \"kind\": \"speech\",\n      \"text\": \"Greg 提到 最强的编程模型已经强到 他自己越来越少亲手协软件\"\n    },\n    {\n      \"timeSec\": 16,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #4 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0005.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0005.jpg\"\n    },\n    {\n      \"timeSec\": 20,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #5 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0006.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0006.jpg\"\n    },\n    {\n      \"timeSec\": 21.46,\n      \"kind\": \"speech\",\n      \"text\": \"更多时候 他是在告诉 AI 要做什么 在不断反馈 纠编 把标准网上抬\"\n    },\n    {\n      \"timeSec\": 24,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #6 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0007.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0007.jpg\"\n    },\n    {\n      \"timeSec\": 28,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #7 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0008.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0008.jpg\"\n    },\n    {\n      \"timeSec\": 28.3,\n      \"kind\": \"speech\",\n      \"text\": \"当一个接近顶级的数字团队 逐渐成为更多人的公共能力\"\n    },\n    {\n      \"timeSec\": 32,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #8 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0009.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0009.jpg\"\n    },\n    {\n      \"timeSec\": 33.1,\n      \"kind\": \"speech\",\n      \"text\": \"差距会落到另一个地方 你把这份能力用在了什么问题上\"\n    },\n    {\n      \"timeSec\": 36,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #9 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0010.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0010.jpg\"\n    },\n    {\n      \"timeSec\": 38.02,\n      \"kind\": \"speech\",\n      \"text\": \"你当然可以让 AI 改邮件 做总结 搭业面 这些都有价值\"\n    },\n    {\n      \"timeSec\": 40,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #10 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0011.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0011.jpg\"\n    },\n    {\n      \"timeSec\": 43.62,\n      \"kind\": \"speech\",\n      \"text\": \"但如果能力已经大幅提升 我们就该继续追问\"\n    },\n    {\n      \"timeSec\": 44,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #11 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0012.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0012.jpg\"\n    },\n    {\n      \"timeSec\": 47.62,\n      \"kind\": \"speech\",\n      \"text\": \"有没有什么问题 过去因为太贵 太慢 所以连想都不敢想\"\n    },\n    {\n      \"timeSec\": 48,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #12 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0013.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0013.jpg\"\n    },\n    {\n      \"timeSec\": 52,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #13 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0014.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0014.jpg\"\n    },\n    {\n      \"timeSec\": 52.86,\n      \"kind\": \"speech\",\n      \"text\": \"这就是最容易被忽略的反转 工具已经很强了\"\n    },\n    {\n      \"timeSec\": 56,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #14 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0015.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0015.jpg\"\n    },\n    {\n      \"timeSec\": 57.06,\n      \"kind\": \"speech\",\n      \"text\": \"可我们交给他的任务 可能还停留在最小的一层\"\n    },\n    {\n      \"timeSec\": 60,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #15 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0016.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0016.jpg\"\n    },\n    {\n      \"timeSec\": 61.22,\n      \"kind\": \"speech\",\n      \"text\": \"GriG 说得很克制 我们都可以把野心的上线抬高\"\n    },\n    {\n      \"timeSec\": 64,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #16 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0017.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0017.jpg\"\n    },\n    {\n      \"timeSec\": 65.66,\n      \"kind\": \"speech\",\n      \"text\": \"我更愿意把它理解成 重新审视那些过去受制于成本 团队和时间\"\n    },\n    {\n      \"timeSec\": 68,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #17 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0018.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0018.jpg\"\n    },\n    {\n      \"timeSec\": 71.38,\n      \"kind\": \"speech\",\n      \"text\": \"根本碰不起的问题\"\n    },\n    {\n      \"timeSec\": 72,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #18 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0019.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0019.jpg\"\n    },\n    {\n      \"timeSec\": 73.18,\n      \"kind\": \"speech\",\n      \"text\": \"访谈里GriG 举了一个很具体的例子 一家鼓动表电\"\n    },\n    {\n      \"timeSec\": 76,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #19 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0020.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0020.jpg\"\n    },\n    {\n      \"timeSec\": 77.78,\n      \"kind\": \"speech\",\n      \"text\": \"这个例子特别好 因为它离科技公司很远\"\n    },\n    {\n      \"timeSec\": 80,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #20 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0021.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0021.jpg\"\n    },\n    {\n      \"timeSec\": 81.42,\n      \"kind\": \"speech\",\n      \"text\": \"老板的第一反应很正常 我就是卖鼓动表的\"\n    },\n    {\n      \"timeSec\": 84,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #21 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0022.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0022.jpg\"\n    },\n    {\n      \"timeSec\": 84.98,\n      \"kind\": \"speech\",\n      \"text\": \"AI跟我有什么关系 可GriG没有继续解释技术\"\n    },\n    {\n      \"timeSec\": 88,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #22 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0023.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0023.jpg\"\n    },\n    {\n      \"timeSec\": 89.3,\n      \"kind\": \"speech\",\n      \"text\": \"而是换了一个问法 换成如果世界上最好的程序员已经为你工作\"\n    },\n    {\n      \"timeSec\": 92,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #23 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0024.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0024.jpg\"\n    },\n    {\n      \"timeSec\": 94.82,\n      \"kind\": \"speech\",\n      \"text\": \"老板就能想到具体事情 先做一个真正能用的网站\"\n    },\n    {\n      \"timeSec\": 96,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #24 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0025.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0025.jpg\"\n    },\n    {\n      \"timeSec\": 98.82,\n      \"kind\": \"speech\",\n      \"text\": \"再为每一块表建立页面 把年代 设计和故事讲清楚\"\n    },\n    {\n      \"timeSec\": 100,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #25 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0026.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0026.jpg\"\n    },\n    {\n      \"timeSec\": 103.9,\n      \"kind\": \"speech\",\n      \"text\": \"把这件事在拆开 先整理表款资料\"\n    },\n    {\n      \"timeSec\": 104,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #26 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0027.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0027.jpg\"\n    },\n    {\n      \"timeSec\": 107.58,\n      \"kind\": \"speech\",\n      \"text\": \"再写清历史故事 然后做成独立页面\"\n    },\n    {\n      \"timeSec\": 108,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #27 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0028.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0028.jpg\"\n    },\n    {\n      \"timeSec\": 111.53999999999999,\n      \"kind\": \"speech\",\n      \"text\": \"最后让故客更容易减所和理解 过去这套工作很重\"\n    },\n    {\n      \"timeSec\": 112,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #28 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0029.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0029.jpg\"\n    },\n    {\n      \"timeSec\": 116,\n      \"kind\": \"frame\",\n      \"text\": \"Frame #29 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0030.jpg)\",\n      \"framePath\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0030.jpg\"\n    },\n    {\n      \"timeSec\": 116.25999999999999,\n      \"kind\": \"speech\",\n      \"text\": \"现在第一次可能做得起 过去很多事情没有发生\"\n    },\n    {\n      \"timeSec\": 120.58,\n      \"kind\": \"speech\",\n      \"text\": \"未必是因为他们没有价值 常常只是交付成本太高\"\n    },\n    {\n      \"timeSec\": 125.1,\n      \"kind\": \"speech\",\n      \"text\": \"没有程序员 没有设计师 没有研究时间\"\n    },\n    {\n      \"timeSec\": 128.54,\n      \"kind\": \"speech\",\n      \"text\": \"一个好想法就只能停在纸上\"\n    },\n    {\n      \"timeSec\": 131.42,\n      \"kind\": \"speech\",\n      \"text\": \"把这度强拆开看 通常至少有四层 开发 设计 研究和持续投入的时间\"\n    },\n    {\n      \"timeSec\": 138.9,\n      \"kind\": \"speech\",\n      \"text\": \"AI不止替其中一个人提诉 他同时压低了几层门砍\"\n    },\n    {\n      \"timeSec\": 143.78,\n      \"kind\": \"speech\",\n      \"text\": \"这里要纠正一个误解 AI什么都能做 不等于它会自动告诉你什么值得做\"\n    },\n    {\n      \"timeSec\": 149.7,\n      \"kind\": \"speech\",\n      \"text\": \"工具越通用 第一句话 反而越难写 这就是访谈里谈到的空白液问题\"\n    },\n    {\n      \"timeSec\": 156.06,\n      \"kind\": \"speech\",\n      \"text\": \"如果你也卡在空白液 不用先学100个提示词\"\n    },\n    {\n      \"timeSec\": 160.46,\n      \"kind\": \"speech\",\n      \"text\": \"先问四件事 什么每天重复 哪里最容易出错\"\n    },\n    {\n      \"timeSec\": 165.78,\n      \"kind\": \"speech\",\n      \"text\": \"那些需求因为人手不够被放弃\"\n    },\n    {\n      \"timeSec\": 168.66,\n      \"kind\": \"speech\",\n      \"text\": \"那些事有价值 却一直跪到不值得做\"\n    },\n    {\n      \"timeSec\": 172.26,\n      \"kind\": \"speech\",\n      \"text\": \"接下来是整场访谈里最值得创业者重视的一层\"\n    },\n    {\n      \"timeSec\": 175.86,\n      \"kind\": \"speech\",\n      \"text\": \"当软件开发越来越普及 真正稀缺的会更多的回到现实世界\"\n    },\n    {\n      \"timeSec\": 181.3,\n      \"kind\": \"speech\",\n      \"text\": \"GRAG用教育举例\"\n    },\n    {\n      \"timeSec\": 183.66,\n      \"kind\": \"speech\",\n      \"text\": \"你不能只说我要做一个教育AI\"\n    },\n    {\n      \"timeSec\": 186.46,\n      \"kind\": \"speech\",\n      \"text\": \"因为真实世界里同时有学生 老师 家长 学校管理者 还有採购与制度约束\"\n    },\n    {\n      \"timeSec\": 193.66,\n      \"kind\": \"speech\",\n      \"text\": \"学生在乎好不好用 老师在乎能不能进入教学流程 家长在乎结果\"\n    },\n    {\n      \"timeSec\": 199.46,\n      \"kind\": \"speech\",\n      \"text\": \"学校管理者还要考虑何归 採购和责任\"\n    },\n    {\n      \"timeSec\": 203.26,\n      \"kind\": \"speech\",\n      \"text\": \"只理解模型能力 远远不够\"\n    },\n    {\n      \"timeSec\": 205.86,\n      \"kind\": \"speech\",\n      \"text\": \"业面可以快速生成 代码也会越来越便宜\"\n    },\n    {\n      \"timeSec\": 209.46,\n      \"kind\": \"speech\",\n      \"text\": \"但现实工作里还有沟通 採购 责任和信任\"\n    },\n    {\n      \"timeSec\": 214.66,\n      \"kind\": \"speech\",\n      \"text\": \"这些东西不会因为模型升级就自动消失\"\n    },\n    {\n      \"timeSec\": 218.46,\n      \"kind\": \"speech\",\n      \"text\": \"把GRAG的意思换成更直白的话 一个产品至少要回答四个现实问题\"\n    },\n    {\n      \"timeSec\": 224.26,\n      \"kind\": \"speech\",\n      \"text\": \"谁会用 谁愿意付钱 谁承担风险 谁有权决定採购和成功标准\"\n    },\n    {\n      \"timeSec\": 230.66,\n      \"kind\": \"speech\",\n      \"text\": \"顺着这个逻辑会出现一次很重要的变化\"\n    },\n    {\n      \"timeSec\": 234.26,\n      \"kind\": \"speech\",\n      \"text\": \"过去 离代码最近的人更容易拥有产品权\"\n    },\n    {\n      \"timeSec\": 238.46,\n      \"kind\": \"speech\",\n      \"text\": \"现在 离问题最近的人 也有能力把自己的行业判断做成产品\"\n    },\n    {\n      \"timeSec\": 244.26,\n      \"kind\": \"speech\",\n      \"text\": \"AI可以帮你写代码 做研究 整理资料 但它不能让你屏空拥有十年的行业经验\"\n    },\n    {\n      \"timeSec\": 251.06,\n      \"kind\": \"speech\",\n      \"text\": \"那些看起来合理 实际根本推不动的地方 通常只有离现场进的人知道\"\n    },\n    {\n      \"timeSec\": 257.06,\n      \"kind\": \"speech\",\n      \"text\": \"有了问题距离 下一步还要判断 你的价值是建立在模型持续进步上\"\n    },\n    {\n      \"timeSec\": 262.86,\n      \"kind\": \"speech\",\n      \"text\": \"还是只建立在模型今天的缺陷上\"\n    },\n    {\n      \"timeSec\": 265.86,\n      \"kind\": \"speech\",\n      \"text\": \"顺着GRAG的逻辑 我会加一道压力测试 假设模型再强时辈\"\n    },\n    {\n      \"timeSec\": 271.26,\n      \"kind\": \"speech\",\n      \"text\": \"你的产品会更值钱 还是更不值钱\"\n    },\n    {\n      \"timeSec\": 274.46,\n      \"kind\": \"speech\",\n      \"text\": \"第一 模型补上今天的能力缺口 你的功能还剩什么\"\n    },\n    {\n      \"timeSec\": 279.06,\n      \"kind\": \"speech\",\n      \"text\": \"第二 客户能不能轻易绕开你\"\n    },\n    {\n      \"timeSec\": 282.26,\n      \"kind\": \"speech\",\n      \"text\": \"第三 你有没有真实流程 数据和交付结果 证明自己不只是一个包装层\"\n    },\n    {\n      \"timeSec\": 288.86,\n      \"kind\": \"speech\",\n      \"text\": \"第一 类产品 用提示词 规则和人工补丁 绕过模型今天做不到的事\"\n    },\n    {\n      \"timeSec\": 295.26,\n      \"kind\": \"speech\",\n      \"text\": \"第二 类产品 把模型接近真实流程 持续积累数据 交付关系和信任\"\n    },\n    {\n      \"timeSec\": 302.06,\n      \"kind\": \"speech\",\n      \"text\": \"模型越强 两者的命运越不一样\"\n    },\n    {\n      \"timeSec\": 305.26,\n      \"kind\": \"speech\",\n      \"text\": \"更耐久的东西 通常不是一段提示词 而是6类资产 用户理解 行业关系 独特数据真实\"\n    },\n    {\n      \"timeSec\": 313.35,\n      \"kind\": \"speech\",\n      \"text\": \"流程 交付能力和信任\"\n    },\n    {\n      \"timeSec\": 315.66,\n      \"kind\": \"speech\",\n      \"text\": \"模型越能做事 这些资产越能被放大\"\n    },\n    {\n      \"timeSec\": 319.46,\n      \"kind\": \"speech\",\n      \"text\": \"把这一张压成一句话 护成和别见在AI今天做不到的地方\"\n    },\n    {\n      \"timeSec\": 324.86,\n      \"kind\": \"speech\",\n      \"text\": \"更好的状态是 AI越能做 你手里的东西越值钱\"\n    },\n    {\n      \"timeSec\": 329.26,\n      \"kind\": \"speech\",\n      \"text\": \"访谈里 主持人Marena把另一个机会总结得很准确\"\n    },\n    {\n      \"timeSec\": 333.46,\n      \"kind\": \"speech\",\n      \"text\": \"过去只能做为一个功能存在的小问题 今天可能第一次足以支撑一门独立生意\"\n    },\n    {\n      \"timeSec\": 339.46,\n      \"kind\": \"speech\",\n      \"text\": \"Grag 当场表示认同\"\n    },\n    {\n      \"timeSec\": 341.65999999999997,\n      \"kind\": \"speech\",\n      \"text\": \"Grag 把经济比做一个分型\"\n    },\n    {\n      \"timeSec\": 344.86,\n      \"kind\": \"speech\",\n      \"text\": \"进入医疗 制造 教育 或专业服务 继续放大 会看到越来越细的岗位 任务和低效流程\"\n    },\n    {\n      \"timeSec\": 353.26,\n      \"kind\": \"speech\",\n      \"text\": \"过去他们太小 现在未必\"\n    },\n    {\n      \"timeSec\": 356.06,\n      \"kind\": \"speech\",\n      \"text\": \"律师 保险经济人 供应链专家 制造工程师 财税顾问\"\n    },\n    {\n      \"timeSec\": 361.86,\n      \"kind\": \"speech\",\n      \"text\": \"过去可能离问题很近 确离产品很远\"\n    },\n    {\n      \"timeSec\": 365.46,\n      \"kind\": \"speech\",\n      \"text\": \"现在AI正在缩短中间这段距离\"\n    },\n    {\n      \"timeSec\": 369.06,\n      \"kind\": \"speech\",\n      \"text\": \"比如保险资料反复合对 供应链一场反复追踪 财税财料反复规矩\"\n    },\n    {\n      \"timeSec\": 375.26,\n      \"kind\": \"speech\",\n      \"text\": \"这些问题单次不大 但只要高屏 可交付有人愿意付钱\"\n    },\n    {\n      \"timeSec\": 380.26,\n      \"kind\": \"speech\",\n      \"text\": \"就可能从功能长成产品\"\n    },\n    {\n      \"timeSec\": 382.66,\n      \"kind\": \"speech\",\n      \"text\": \"所谓复合型人才 并不需要一个人重新学完所有专业\"\n    },\n    {\n      \"timeSec\": 387.46,\n      \"kind\": \"speech\",\n      \"text\": \"更现实的组合是 在一个行业里扎得够深 能定一问题\"\n    },\n    {\n      \"timeSec\": 392.65999999999997,\n      \"kind\": \"speech\",\n      \"text\": \"再用AI接上过去够不到的研究 设计和开发能力\"\n    },\n    {\n      \"timeSec\": 397.06,\n      \"kind\": \"speech\",\n      \"text\": \"观点讲到这里 最重要的是怎么落地\"\n    },\n    {\n      \"timeSec\": 400.26,\n      \"kind\": \"speech\",\n      \"text\": \"GRAG给的方法其实很普遂 从一个小痛点开始 先自己把流程跑通\"\n    },\n    {\n      \"timeSec\": 406.65999999999997,\n      \"kind\": \"speech\",\n      \"text\": \"GRAG建议 先亲手做 最好连续跑三到五遍\"\n    },\n    {\n      \"timeSec\": 411.06,\n      \"kind\": \"speech\",\n      \"text\": \"因为只有真的做过 你才知道哪些动作稳定\"\n    },\n    {\n      \"timeSec\": 414.65999999999997,\n      \"kind\": \"speech\",\n      \"text\": \"哪些地方需要判断 哪些异常必须交回给人\"\n    },\n    {\n      \"timeSec\": 418.65999999999997,\n      \"kind\": \"speech\",\n      \"text\": \"更具体一点 选一个小痛点 手工完成第一次\"\n    },\n    {\n      \"timeSec\": 423.06,\n      \"kind\": \"speech\",\n      \"text\": \"重复三到五遍 标出稳定步骤和判断点\"\n    },\n    {\n      \"timeSec\": 427.06,\n      \"kind\": \"speech\",\n      \"text\": \"在自动化确定部分 最后保留异常处理和人工复合\"\n    },\n    {\n      \"timeSec\": 431.86,\n      \"kind\": \"speech\",\n      \"text\": \"顺着这套方法 人机边界就清楚了\"\n    },\n    {\n      \"timeSec\": 434.86,\n      \"kind\": \"speech\",\n      \"text\": \"机器接住稳定 重复 可检查的动作\"\n    },\n    {\n      \"timeSec\": 438.66,\n      \"kind\": \"speech\",\n      \"text\": \"人负责目标 例外和责任 人没有被删掉\"\n    },\n    {\n      \"timeSec\": 442.86,\n      \"kind\": \"speech\",\n      \"text\": \"只是把注意力放回了判断\"\n    },\n    {\n      \"timeSec\": 445.06,\n      \"kind\": \"speech\",\n      \"text\": \"所以 自动化的顺序很重要\"\n    },\n    {\n      \"timeSec\": 448.06,\n      \"kind\": \"speech\",\n      \"text\": \"先把正确的事情做出来 再把正确的事情自动化\"\n    },\n    {\n      \"timeSec\": 452.06,\n      \"kind\": \"speech\",\n      \"text\": \"流程本身都没搞明白 系统愈快 错误只会扩散的愈快\"\n    },\n    {\n      \"timeSec\": 457.46,\n      \"kind\": \"speech\",\n      \"text\": \"把整场访谈压缩下来 只需要记住三个判断\"\n    },\n    {\n      \"timeSec\": 461.46,\n      \"kind\": \"speech\",\n      \"text\": \"第一 别指问AI为什么 要问什么问题值得解决\"\n    },\n    {\n      \"timeSec\": 466.26,\n      \"kind\": \"speech\",\n      \"text\": \"第二 别把价值见在模型缺陷上\"\n    },\n    {\n      \"timeSec\": 469.65999999999997,\n      \"kind\": \"speech\",\n      \"text\": \"第三 先手工跑对 再自动化\"\n    },\n    {\n      \"timeSec\": 473.06,\n      \"kind\": \"speech\",\n      \"text\": \"最后 再回到开头\"\n    },\n    {\n      \"timeSec\": 475.26,\n      \"kind\": \"speech\",\n      \"text\": \"如果世界上最好的程序员 今天就为你工作\"\n    },\n    {\n      \"timeSec\": 478.86,\n      \"kind\": \"speech\",\n      \"text\": \"你最想让他解决什么\"\n    },\n    {\n      \"timeSec\": 480.86,\n      \"kind\": \"speech\",\n      \"text\": \"别从下一个AI工具开始\"\n    },\n    {\n      \"timeSec\": 483.26,\n      \"kind\": \"speech\",\n      \"text\": \"先写下那个你已经忍了很久 过去又做不起的问题\"\n    }\n  ],\n  \"warnings\": [\n    \"ASR is machine-generated and may contain wrong words; timestamps are approximate, not a prosody assessment.\"\n  ],\n  \"detail\": \"detailed\",\n  \"elapsedMs\": 39561,\n  \"ocrHitCount\": 0,\n  \"summary\": \"8:08 · 768×576 · 30fps · has audio\\nSpeech (whisper.cpp, 110 segs): “假设世界上最好的程序源 今天就在你公司里 而且随时可以为你工作 你会让他做什么 这个问题来自 Greg Brockman 的一次常访谈 后文会区分原始观点和本篇分析 Greg 提到 最强的编程模型已经强到 他自己越来越少亲手协软件 更多时候 他是在告诉 AI 要做什么 在不断反馈 纠编 把标准网上抬 当一个接近顶级的数字团队 逐渐成为更多人的公共能力 差距会落到另一个地方 你把这份能力用在了什么问题上 你当然可以让 AI 改邮件 做总结…”\\n30 keyframe(s) extracted\\n1 warning(s)\",\n  \"sidecarPath\": null\n}"
+    },
+    {
+      "type": "image",
+      "data": "/9j/4AAQSkZJRgABAgAAAQABAAD//gAPTGF2YzYwLjMuMTAwAP/bAEMACBAQExATFhYWFhYWGhgaGxsbGhoaGhsbGx0dHSIiIh0dHRsbHR0gICIiJSYlIyMiIyYmKCgoMDAuLjg4OkVFU//EAKMAAQEBAAMBAQEAAAAAAAAAAAABAgMGBQQHCAEBAQEBAQEAAAAAAAAAAAAAAAECAwQFEAACAQMCAwQHAwkGBgIDAQAAAQIEAxESIQVBMSJhURNxgRQysZGhwSPRM0LSklMVk1LwBrJiNHJU4cLxQyVzYzWCoiRVEQEAAgECBQMEAgIDAQAAAAAAARECMSFhElEDQXEyIqGRgROxwdFiQvCSUv/AABEIAWgB4AMBIgACEQADEQD/2gAMAwEAAhEDEQA/APwkG9bPusW5X9XajFQi5NyzjGUuSfidnO6ecU9eNLelHXbWtLmu7wz1PN1Pp6jRduEHPmXh9DGWt0iNOMpzapeHca1y8PoEfMU36jett/UDhwyHNrfw+hgDGGDm1v65Jrfx+pEcRSt56m9b+mAOPBDk1Pcjk38CqyMG1Jr+vEan9gGAacmyqTXTxyBgG9T+P1Dk2BgG1Jx6en5Gtcvj9QOHAOVzcs55mU2unPYgzghza5fD6GNT+wowU0ng35kt+/H0A4QcuuX9d5hNp5RBBg3rf2F1v5AcQKcmt/XPrA4yHJqe/eZbyUQHJrfw+hNTA4wbbbNan9MAceCHP5kjibz1IIDetr1Gtcvh9AOEpcmlNoqOMHLreMd2DLk2FYKVSa6f1gupkGCHJqbT79yJN9ArANtYOWEFLrKMfTn8Aj5wfbesuzo7UZKcdScc4xlrml4HxFImw+y1d8tXFjOuGn0bp5+h8hCGrtlisswtwVyM9Vv3dPR75/6nkW6lwnclpT8x5a6Y35Hlg3M2kRTsUa+UXB+XF6E4rd88fgcPtsuUEsJ/B79O88TIyYae57dLTjQtnlPP/Aw6yT1dlby1fLGNmu48fJAPedfJq4tCXmJasejHgcXtkt+wt1h954wCN7fy/V+H9MwCFAAAAAAAAAAAAUAQoAFAAAAoEBQBkGgBkGiAQhoAZBSEAAAAAAAAAAAAAAIUgAABQAADkjJxeUcYA225bsmTICPruXfMVtYxohp9O7efqfIAUAARQAoEAKAAAAABAAFAAAACgQFAAGgABQBAUpRAUoGQaAEBQBkGiAQFAGQUEGSGzIEIaIQQAAAAAAAAAACFAEBQBAAAAAUAAAAAUAAADQGQaAEBQUQFARAUAQoAAAoEKUAQGgUQ0CgQFBQKDQGQaAEwDQAwDQIMENkAyQ2QDJDRCDJDZkDANEIIAAAAAAAAAAAAAgKQAAAAACgAA2AAAAKABQIUAIAAACgCAoAAFKIUFAhSlKBSgAClKIUpQMg0UIwDYAwDQIjJDZAMENkAwZOQgGCGiEaZIbMkGCGzIEAAAAAAAQAAAAAEBSAAAFAAByAAoAAAAUIAAAAAAAKABQBohQoAUqBoFAFBSgUpQiGgUIgKCgCgCA0QgyZNkAwQ2ZAyQ0QgwQ2QK4wUhFZMmyEGSGiAQhoAZBSAAAAAAAAAAAQAAFbBQUQoAAApUQFAEBoAQFIFUFAA0QpQKCgDRClQNmTYRywhK5JRim29kl1Zzqxcc3DS9SzldGsdepm1clZmpxeJReU/Bn0+1XVclcUu1LrLq+uTTnN34fFpenVjbOPX1MHM5yaa5OWr1mEGlhB3JRjFZcnhLxbOSVqcVFuLWptLvaeH9diRbhJSXVPKPrnU3ZyjKTTcHmO3Pb8PmVmbtxez3PMdvHaWW02tsLPXODKsXHKUdO8Pe6benu7zld+45a9Xa06dXPHq595Y37kZTknvP3tuvc+580GPlwfOrU5QlNY0xeHuupHbkoKe2G8LdZyu7OTljdlGEobYk8+j0HBqelR5Jt+t4/AjVy1atTvPEVl4z1S7ufpNQsXJqWI+68Pddd+/fo+hbV2Vltxxusb+nP2Go37kNWHjU8y7+q+W/QE3wfPG3OWjC994j3s2rFxzcElqSy91jHp6EjclDRj/ALb1R9O34GnenqlJbOSw8Z6P15IfLg+eNuUpaUsvOMIzOErcmpJprqn1OWFyVuSnF4aeU+8l25K7Jzm8ye7fiR32rzf0fIQ2ZIywQ2QDjIbMkVgFBBCFIAAARAUAQFAVCGyAZBSEAAAcgAKqmsEOwUFBf4jddqxpclFyep4WEwjw9Iwf0PV8IqrnC6ajtKGuDUrmZYWd3s+e7Oo0HAV7ZOnrVnFnzV5c/wDFjqvXsVjmfk2Bg/caXh3Aay75Vl35TSbw5TXTru0fj962oXLkV0jKaXqbRUt5+DWD+iY08LdJSytcOtVUp246/ci12Vu89cn2qng6Z3Hwq0rqeFY7GWs9dWMCnPnfzPgmD+jYU8Ltmod7hlqmcbcnFvRLL0vpjpg/nrApqMrcKRrB+2cLsWFwuNx26Vz1yWuoXZxq6N9fQfZ91/Lwb5s1TnOb8HwTB/RFmzYvQvarXD5abcmvIWpp4e7z07j8FhbdyUYx3cmkvSy01jnb49LNYP26i4bU0tBV2nBede2isp7Yx16c2dMtWFwu9/8A206uqcHphmMua38CUz+yJvh9XRcFwfsVLf4fWXVat8OWX1bUcRXizq3GVTRqVCnhGKhHE9K2cs/ZzLSR3LmqmHSMG8H7Pwrht6kt3pyUJTuQStrOV0z2srbfB0p8KvWamxauaW7rz2XnZPd9PAtM/txuY6Om4Lg/ZOK8MqK29GVry1CMFFZeH8D8/q+HXqJR83T2840vPT5Fpce7jlW8XPh1zByYP1LhsOHVGmCp83I21Kbllxytnjf7CU96zXVluHs1uEYRuLGzz6VhLY1TnPeq/jO0XL8uwTB+k3K6nhOUfYLT0trO2+H190+fjFu3GNNK3bhb1xbelY8OvoFLHeuYicZi+MPz7BrB3jh9JTXbF67fjJ+W/wA1tbY8Eetahw+Eo3Ldqp23i9M2vwYpnLvxEzFZTXR+ZOJx4P1e/GhqJuc7FTqfXEJr4HXKuFBC21bhehc2061JfEs4pj3oyr45fbR0rBMHrU0c37Se6c45XLqfpdS/KuOMKCF1LHaUVvn1GYh0z7nLMRV36R/L8dwYwfr9mTuXIxnw+NuLe8tPT6HQOJQjCrvKKUUpbJdOiEw1j3OaaqvzH9OuGTlZg5PS4yGwFcZcHMlk75ScNjZj7RWdiMd1B9W+9fCPzFMTNPz1rBxtH6t5tPxhO3NK1ci35T8V4fjH5HQqmku0s9NyOPB/mv0MtES8TBrB69LOzbuqV635kMPMfHbb5HbfbOGf7N/T9IlNW/OsEwfr1UuH0sbcpUqfmLKS5bLrv3nXrlXw6UJKNG4tppPbZ42fUUroOBg96jt085tVEpRjjZxTy5eHRnfG+HSplTuc3FPOry5a/noI1VvyfBnB+l01PTxrKd07uXIpy1uUXiLxt+ajkdu3K5WW71mSU5SlC7G3JyyuiTS+QajH/D8vwMHtU9Mr15WpTVtb5lLljxzg7ja4LalJYqYTxu4xSba582RIxnLR+bOLXVMxg/YuIUlusnF+0W7agtOnbZ/rI68+D2f95b//AF/SDvPayvaL/MPzwyerV2I096VuM1cSx2l0eV6zyiOFUgAIjkBQVWke9QRuzqLVu1KUJXJxhmLcXhvfpyPBR69LU3KS9C9bwpweVlZXhuvQViX6/wAYv3b3FKels3LkVHRF6ZNZbeXnD3xHxOy2rqucbqEv+3TRh68pv4n00EbNcrfEJU/k32nFZeFPbGpeK8G9zq3CLVRa4pVe0R0zlblLxUszW8XzRXmde/s5/wDZP/Rc+KOh1P5e9/7Ln95n6TwCmv2uIOU7NyEdFxZlCSXVc2sHSrdV7HXTvKEbmm5d7Mujy2gsP0726ivUtNb9vuU0rduKl5eU29KWH2eR7cZ2P3fJ+3Xnb1b1G+tPUuytunLoeTw/iNTXy1ex01u1Hed2SxFLnjK3f9M7D+8ab2WdQoryY3fL91Ya1KOvHTHM3Dzy63brqKxZvr2+5UO5bkoq5l4eH7vZ55PxixajduQtynG2pNJzl7se9n7VxCvqKPtxpae7YlvC7FZWH/NhbfA/I62rdbed1whbyktMOmwdsLfrdizOhpYW3V0TtSbcHchlSb32zPDPrcXG2rjvcNUJdJ+R2X6HqOK03Hh9FiVJHsL/ADPTp+b3ma++6elpb2LFzTeTatr7prEk9Pq+pt5Jndnz0lJRrOGw1Jp6YaXhrumflFVTxo7kVbvwvbatdvk89OvU/cVKc79uULdO6WVvW7mlalt08O8/DKy7G9VXbkElGU247bY5fMS64av0aru37VHRWFcn516UXKWp6t+WevWRridFd4hVaLTh9zagpanjeTb8Gejw29HicYXr1nFyneI3ekZej0c10ydA4rGps1dyU8x8yWYuLelxXTdY6LkVzj3VpMW79ScOqKWjvWou3G/cbxNPltzxnxPzet4beoYxldcHrbS0tvddc5R2amnL9zVL1SypvfLz1hzPzuU5SXalJ+lt/EjeEZXlvGu79Z4lSVVTGmdhN4tdrEtO7SxzR9tVUqkvWM29dx2HCG/Sba2eeT5s8vintWmm8jzvyXa8vV3dcHm8dzmlz18t/PY280RzcsTW/N6uu1kaumuNXpzUpdrKm9Lz4b8uh2Li+9PRf6H/AHYnk1FfCqooW7kXK/B7T5Y8X45XI9TjG1miX/x/ZEnV335sNqm5/h2fhdQ6iDfkwtqCjBSj1k0t+S9Z5maq5Wfd2bVqdqMur7MoyfvbJZPRo79rzYU9j8nCxqb8ZSx171z7zpqqVVThbqLjtwtqaU49W87ZOnh44j5ZbVFcZ+ju3/kvCl+p1LikKpxtzv8AlYTcY6O/xOx24U3sVxK9N2s9q5zT27jolZGxDT5N6V1b51cvAk6Ha9/jaf8A5n/sPcof/r6v+uSM0VXeji3cu3LdtRxHFvOHyy8dDVh+Twu5PnO5t6mvwPn/AHzVf/H+r/xHRupynufGJ+XmdNna9d+mi7t687sfzYwgu1npnY/OKy9dqbjuXIuPJLDwlyWT9ArKy9Z9n0aM3Vvq6Z2552W55HF6n7uFO2pT2lNrovBL0/Assdm4mJ5YudvSI4Ot8Pp/ab6jqcNK1prGcprxO5O5BNr94zzndYj1/VOvcF/zT/8AXL4o4aK07td02jclKXhhN/FmI0erOLym50jg7L5tv/8A0p/KP6J1LitN5F2L8yVx3VqcpJLu5DiMtdTcko9lS0ppbdnZ93U+/jbUpWMNP7vk+8S1hFTjx9HQWjiZ69ilu1U3C1HLSy8vCS9J8V21OzOUJrTKOzRwfQfGCkI07dw6rs0qm3Z8y632Gt36O70pZNOrqp343rlqU9L7NtxloXoXj3vJ1yxelT3I3IY1ReVndHaP33WeNv8AU/4mnOYfbUqmqLTvW7dyzeTXYUH2n6lj1otriT8vy6yzK5DlJx3zyzn4rctPxOvqZq3bUG31enZLxe5zcaqlohT5UpbSuNcsdNu/rgpDqFJCmu3JefN2oYbWPHPTo+R2eFJwuclGNRNtvCXi/wBQ/P8AJ3vhdKradXf7MILMc834/h4sy6Q7XxCmppxhO/OVuMOysdN/HZ+B1N03Cf8Acz/r/wDA+mmro1dy9Zv+5ffY/wAL5L+uZ1CrpblJccJr/TLlJd32orX4t6HC/wDO2vTL+6z9Bb4h520bXla+7Voz6euD874ZY9oqYp50xTlLDa2S8VujtkLkfYZyzLR7Rj3nnRrX52c9DLpjp9X3q9djxKVmONE0pSWPCHiKutvWqXzYNKXnShus9lNrp6jjs08aarv3t/Lhb1Ry89V0y99kvqeRNO/w6yudy/j1ylL8Q7RcRP5p0eTnfuN41TnLOy6t9x+iW7P7rpXLGq/daiscm+i9XxOpQnPhlU8qE5Ryn4brk+qOzVtRO5Q011vtualleO5GcKiMpn3RH2eXR0N72mDvWZacyctS26Pr6z5Kzh991Fzy7EtGrs6VtjuPUoK+pvVNuE7jlF5ysLwfgj5a3iFVaqLsIXWoxlssR2+gaj9fJd5e7Wot0WacJNPZp4a9B859M5OcnJ7tvLfez5iPMgAINgAqqe7QXrFmptzqLfm20+1H7cc8eHM8MqKjv/E+NXa67Hy82bVp5tRTw010k8c/BdEfZS8fvW6mV+oTvN2laSTUUsNPPTnjc/N8jIcuV+qU/wDaeqhczfSuww+xFRg88nnHI6hTVVq3Weddsq7bc5Slbe+0nnblld+x1vJMlOWHfeI8avVy8uKVmwuluPNf4vw6H0Q4hYXB50uX5ruaktLxjUn19B+dZLkJyQ7vw/jF6g7H5Wy+tuX/AC+Ho6M+Koq6e7WK9bp4wtJp+V01JddXJZ7tjqpcheXy/VZ8ftShGCobLjD3FN6lH0LSelPjVLdpbduUVHXLTet24tKNt5zobWM9Oh+N5NZNW5/rxfrP7+p7WLNqmXsyTjJP3pJ9Wl0+fU6RV3KR3808JK12W4t4bfNLrhcjruS5Lax24jS36FxDitu7ajTUsXaspLPJv/D6FzfNnkRr3fuWFWSldtW8ppdfTs1mX2HVMmsi15Ih+kVPEaGNHOmpYXFre+rot1l7tvkfn+T58mslsxwjHT6v0O/xy642lT6rSjBKWVGWprHQ8Su4hKudtyio6I42bec8zrOTaFsR28cfDtVFOgUH7VCcpasxcc4x4NZRviVbGtuQ0RcYW46Yp9foeVR00qu9G1F4zlt9cJcz2LfDJ3J1EfMj9x1kk2pPwXM1vLjPJGVzM3G9eI8Jwuqt0l6c7jeHBx2Wd8ozS1FLaU/Osu63LMXtsvDc8Lyrn8k/1X+BlxlHrFr0pr4hqcMcpmb1rSejv64pRq27appKD6xysM8WpqaO5acbVP5c8rEtvX8zrB69XRzpNGtxetZwuq9KLduUdvDHKN8rnfWd311FZG5TWLMIuOj3u98n8WYpfYnGXtErkZZ20+HyZ86o5ypZVCa0xljSuve34HkB0jHGpjGZ13rW3aeJVdqoduNvOm3HGXt4fgdXPbpaC7WRlKDglF4epv8AA9X9y1P81r5v8CapE4YRy399Xn0joVDN/wA3Wn0i3hr1Y+J6U+J2rMHCls+Xn8+XX0979LMfuWo/ntfrP8DxquhuUenW4vVnGl56eobpWGU63wt9FPxO9YjoxG5D+WS8e/8AHJqqvUV+1qhZdq9noto+nbZ/Q86lpZ1c3CDimo6u1nH0ye7+5aj9pZ+b/Ajp8Yno8vhvnRvZtTjBJZuSljGjPfz8D4eIX41NTcuR914S70ljPrOxfuSo/aWv1n+B4lZQXKNRc5QerONLb6elIjpExbrTMHIzjMOqHNBpSTksrO6zjK8MnAQiv0K7xazYt+XR29GVvNrdfa33s6HKbk228t9W+rODJnIHYaC7S2pylUQc8LMMbrPeufr2N1vEblY8e5bXuwXxfizrWSEac+TutPxS3ct+TWR8yK6T6y26Z7+9HQsgEbPYt1M7Mp+U3CM8prrmPg39p2KoraVUns9hT3kpPVy5vfOTo2RkFzDtkuIL2NU8ItNv7yTedX/X7D0aTiNNbsQtXoTflz1x09M5yuaOg5GSNxnMTfCvw9aqv+0X7l3GNTyl4LkdoVdTKmpYTXmeW+3DHdLm9uaPz/JchIzmLnrq/RocTobclKFI4yXRrTlGZ8SoJycpUjk3u29OWfnmSZDv+7P/AF/8w9CquWrt2UrUPLg8Yj4bb/M8o0ZI4TNoACI2AU0oAAKUgKBSFAoACBSFCqUhSilICo0aMmgNFMmijSOZHCj6YvDTXIrD9T4fTSoaS7USX3koZinyjy+b3Zqd2XC6WCWHeuvXLVv13b+xFt1k6yirJzwsLCiuS0r7Tx7NuKoLt68tb921qb7Po9fwPQ+DvM5c2/ziJjrttD07ldXW7Vq6/I03fd2eV6TzeMVCu+TBSjPEdUnHdZe2x9l+UYUVC5JSipLUn0axueJxSxGzfzBJQuRUo46eDx8fWSdHTt448+M1W+X0OF0nn3tcvydp5bfTPJfaz56y9KtqJygnKK2jhZ7K57eJzS4g/ZY09uCt8ptfnLu73zPZpf8Ax9HO+9rl3aC7uX4/Iy7zMxlOUxv7cY/t8XCr0VKdPc9y8uf83THr+J4VVSypbrhLp1i/5o/11LCmvXLc70VlQeZPO+fR17z0ajiDqKeNqcE5p+/3d3e+ZPDrVZXHn3R0nq57Fijlbi51Urcn70Vy+h9fs9D/ALyfzPm4XbtXHedyCmowys+s5lWUP+0+qDM3c+76Pnv2aWFqUrdVOckto56n08U/y9J/p/5UfNxW1btXIK3FRThnC8cn1cU/y9H/AKf+VBcf+L5+C/5iX/rfxR6Nunolei41MnLXnT4vPToeBw+/7NclPROa06eyumWjslq7SyuR00c4ycl2mujz1JDc6uWtsUk7zldqJW5YXZX/AEPL4uoqxSqL1RSai/FaVuezWXKeN1q5SzuvC7SWx1biNSr9u3GNm5bjbz7y2w8JINYukM4TnZwnJ6ocYKZIqEKQgyQoIMApABCkIBCkAEKQAAAoAAqAAg2UhTSgAAoAKBSFAoACBSFCqUhSilMmijRTJoIpoyUDaOdHAbKy/RuHv/x1Z6X/AHUcN697batU9Lbm42o5kts56etfidQt1N23blbjNqE/ejthi1fuWZarc3B4xleB1t8/9U82U+buOmlbu98Qi7VBSwmsST3XhseNVVVq/S08N3dt7PbbHTr8jr92ou32ncnKeOmX0PmyJlrDtVEXrGUztxdp4bRqruPU+zDDkucs8vR4naq6hv1VzLnahCG0E307/SfmMZyj0k1nwbXwK5N9W36WSJXLDKcua66bP0yip4UUpaqm1JXFpcNt3y5+rodKrqf2W/OH5vWP+l/h0PGycly7O7LVOTk/FvJbaxwmJu7vXZ7dFWqkc8w160ljOPsZ6X7xpf8AZw+a/ROl5Lky3OES7dUSvcTanasvEFpeGn39x9vFlos0sXs1F5XqR1C1UXrGfLnKGeuH1OG5dndeqcnJ+LeRacunSHb+HQrY23OnVtxm99X+E7NB8S1x1q1pytWMZxzwflUb1yCxGc4rwUmkcntN79rc/Wf4ktafq9Q69XPuFbcMLGrrnmdcrIcRu2Jq7G1oj2npaz2TpftN79rc/WZ88qi9JYdy40+q1MNRD4GcLNs4zDqhkpkyqEKZAGSmSAQpAAICAAQAAQCggCqQAKgAINgA0qgACghQBSAo0CFCAACqUyUo0UyUDRTJSo2UyaA0bOM0ByFMGzTL7LTtpvzIykuWmSi/qmfbrpf2V3+JH9A8jKRNS7/kS3OY9Xs66b9nd/iR/QGum/Z3f4kf0Dx9S7/kNce8WV6vY1037O7/ABI/oDXTfs7v8SP6B5GuPi/kNce/5Faevqp/2d3+JH9Amqn/AGd3+JH9A8nXHv8AkTXHv+RLaetqpv2d3+JH9Amqn/Z3f4kf0Dy9ce8muPeLW/T7PU1037O7/Ej+gfFccG+wpRX+Jp/BI+bVHvGU+jIXwj7Jkyys4wyhk0ZIrJkpCDJCkAhkpkgAEIABAAAAgACgAAAECgAINgA0qghQAAAoAAFICjQAAFIAKUhSimjBoI0aMFKNmjBoDkRpvCOM090EcCTk0knJt4SW7bfJHc7nBLkGo+0WVP8AOjPVHTy6pNby1RWcZwdMjJwkpJtNNNNdVjwP0O5xexm7KMW9U12HH8pFz1TlKT6ZXZUcPHUyjxKXhN6otq4/u4y2tvTKetvo2o7xt+M36kz4J0F615/mxlbdmKb7LlF5ey1xzFZ6xb2Z7dHxCmsU8YTWZq5n8hbn92vzNcmnl821tyPkVZT+fValcdq/b0RUYxg49qLTcV2ezjl73rIPllw2/wCbYtxjKXnxtuE9LUczjqaz0elde5HpX+CVFi1O7mLjHMt+y5W1HVqSk9WfGKWxqdZTKopr1u9UfdeTCUXBRWi3HEpLFx7y8Mc+p9lziVPcsyi53Fqt6ZR8tOTkoaMK45PEXhN9nOMoK+a1wK9chB+ZCDkoylGTWq3GUZTzJZztGKfTn3Hlfuy/pvS0uTtXI2koJz1ze7UWuUFu2drt8bsQt2YyV6Uoxt65JR7UoKO3a7TzhwznCjJ7HWbtcpW6iMZ3fvKmF6HLEe3q6PZ7pbdcBl8d/h9+zU+zqE5Sc9EHpcVPvWeXj4HDUUcrNyEFJTjceLc9oqeHpcll7R1ZSk9njJ6c66M6+5dlO/5M5SUtLxN25dYrL7OrGHjkctdV0lTbuKMbvmaou3JxhGMIJafKSi21BR3XXdd5Wni1NJOmUJOdu5GepRlbbccweJLdLo+fR8jyT0am/wCfKHVRhbhCMXjsqK3xhJbvL+J5wZfWnmJxm1tEwUQgMhWSAhBACEEMlIBACEAABQAgAABQAgAAAAAQbBAVVABQKQAUEAGgZKBQQAaBkpRTRg0BoEKEaKZKUbNGDQGzkTOEoHJpT7iaF4/QmTWSpSeWvH6F0Lx+hclyBny14/Qvlrx+hrIyEpjy14/QaF4/Q3khBjQvH6DQvH6GyAY0Lx+hdKXeUyAbOMpkgGDRkCGSkAhCkIMgEAEKQihAAoAAABAKQAAAAAAINAAqhSAooAAAAAUgAoIAKCFAFIUIpowUo0UgA2aMGgjRTIKNmjBSq2DJSDRTBQNEIAAIQIEBkIEIQgEKZAhAQgEBABCkIBk0ZChAAoAAAAAAEAgAAAAg2ACqAACgAoAAAAAKCAIoIUAUhQKCFApTJSjZTBoI0CFCNlOM0VWimSgaKYKBQQACAyEUhCEFIDIFMgBGSAhFACEAgAEAIFACBQEAFBAAAAAAEAAAbBAFUEKUAABQQAUEARQQAUpABSmSlFAAFBCgU0YNBGgZARspgoGymClGymABoGQQUhCFRSAhAIQACAhAIAFDJSACABQhSBQyaMgAAQAAAAAAEAFBAFbBABQQAUEKUUgAApAEUEAFAAFBCgUAFFBCgUEKGQ0ZKBSkAGimSgUEARogIBQQgAgIBTIAAgIQUgAUICBQABUAAEIAAABAAIBSAAAAFAABQQAUAACkBRQQAaBkAaBCJZaXiBsH6Sv7OT0wbuRi5fmtSzF4zvty5+B5tngruqLc1bUlHGtSWXOTUY9OeM56YDnzQ6QU73Z4DevW1NYW8lhtZ7MoxfPv+h9Fn+z870rsfMjB2pyg85ecR1ZWOWA1b88KdsfCmqv2XUnLONW+H2dXTqapuEXKi87LTsyUHP7xNbfLnyBbqIO/S4BcV+NlTg3K3K5qzhJRzs9WN8r6nzLgrflYuwzclKOHqjo0LtybkksR8V1fQDpe3iNvE7tLgV6Dim4ZbSktacoapaY6orMmpdU0ujOeo4DKnt3Ju5F6MprEl0lpxuuud13bgdC9ZcrxO9XeAStWp3HetYhq1by2xtjOnrnY4lwOTpvaNax5buacPO35ufEDpeV4jK8Tm8td5iFmV2eiHhlttJJc229kkS2uVjK8S5R6NyhnblFalKLeNajLsvGcOGNa7tt1ujlu8PnbcFrTc9GOxdS7fTLcML0dS2lPJyvEZXie5e4Vds253HKEowa3Wd8890sHz3KCVuCk7tj3VJrX0T3jy6yW6CU8vK8RleJ7X7su6YtztxlJJ6JtxaT5vbHNdfE+G3RzueXvFO65KCfPHR5/xS7MfFkKfFleIyvE9S1QSuW9bmobvKcXlY65wfXa4VcuyuRVyC8uejOHu9Llld2EQp4GSbeKOWosOmuO22nhReV/iSf2nxFspzg7JPhF6FvzHOOMP8y7nZZzjRsj5rfDbly1G5rS1QlcS0y6Rz1ljTnYWU8Qh2O1wq7djakpw+9jq3UtljO+ItHzvh15Q16reNTjvLT0bWcyUV1T2znuFrTxAe7+7ZqV2PmRzaliWIznyznMIyXq6nE6CeuUIzhNx8vplJu4m4pOSW+3zYKeMQ9e3Q3LtyFtOOqVtXN9sZeMek2uHVHmq04tZc8S6rEPee2en2ix4oPXu0MrOG7tpxctOU28deWM4WGm1ndGLlG4aFG5buSuadEIa9TUnhNZil6upLV5ZDsNRwy7Tw1ynbaWrO+H2e7v6ruOthGiAFAAAQAAAAAAAUAAAAAAAAAAAAAUEARSx2afeZKQfsMP7Q2oqHYk9MHF9rq2ksvOemMrnnrsfDS8cs08IJwnJwjpzrwpLW5JtYe8c7Lo877H5YCscr9KscVp7McNXJNTuNP7t5U3F9qMotZzFdDNrjELKuKOr7y9G43lKWFLU03FLLb25JI/NyhafoNvidO6qVVejOU9TaVvTFYaa7WU+1h9UfTQ8VpaG85wjfmpRUWpzjnaSedo79Nj81AKfrNzj9qV63dUJfd25w0ycdM3JrDliOV6uaW58K42lKw9V2cbUbmVKe7lPOMPDxpTwm1k/NChX6M+NRbuT09qVxSinhqMVPXhvGZPPTOyPvvccsX7U7co3Mzua28x6as6enTB+VAK/SbvHHOxcgsN3Zzk1KMHGKkmko4WXJZzqfRm1xmyowjpu4UNLetL/t+WkobrTjdrO73PzQbFHs3blhxtqGU1Dtt85Ze68NsHleZKE9UHhruT+jyjj2LsGpl7l2tV6VrUp6bfVpxjcm8fzRSSiuiW+EbnxCV7TK4m5QknDTJqOlP3JLnp/Nl18TwNhsRl2q/xOF+F2LtS7W8XqXvJrQ2umEl0XU5LvE4Xbd2L8/NzS3h28ZUdP8ucPq/odR2GxB2dcSxH3G5KEI5e+px05188YjhLvPmtVdmFuMJ27k8SzL7xJNYail2W0oJvSs9dzwthsB7FuucYO3KOqMnPVJt63r6t76ZSXJs9exxS3ZuXZ+XcfmTcsalhJx0r1nUNhsVHp1F+zflcnpnqkoacvpj3s9eqxg8c5BgDtb4nB6vu5b6sbrq9eM93b5eBLfELEIW4+Xcei27f/ay9WctScdS67LJ1XAwSlt3GxxWNmEYaJ4jGMU1JZ2T6ro8/Q+WXE9S0aHGLuTm5ZzJqblmOl9jpLB1jYmAW932+Ubl1xilG5c17pSlHZrs52zhmnW29d3Npzt3PL2csSStxwsY21P6HgbAK9yVbCVyN52Upwjpgk+xlbQbW7ehfrNZZyqvSdt6W9MbnmdI65Tio/m8tlnmzrvqBB796thfUIyg9K3eGlLOZNqGzSj2kt/A4rlTYl5ThC7GVpQjF+YntF55RW/rPFIUe/drnctXLaj+Uu3Ljcm84lpwtnjKxzTPJvO05fdRlGOFlSeXnmfOPUEYKAFCAFQAAAABQAAAAAPqt2vMVx5x5cNXp3Sx9T5T7bF52XLsxmpR0tSzjGU+TXgVmbrZ8ZD67lxXMYtwt4/kzv6ctnykVAUBUBQBAUAQABFKQAUEAGgClEKABQQoAAAUABAABFAAFBAAAAQIUgUAAAAgUIUgUABBCFAEAIAIUgAAAAAFAAAAPqtXFbzm3C5n+fO3ow0EkuWvLjbec+ZDV6N2sfQ+U+2/ed7T2YwUI6Uo5xjLfNvxPiCRdbq1jrsQ+m9+UkfMGgpCgAAAAAAAAQABFAAAAFGikKAAAAAAUAACkKEAAEUABAAAQAAAAFAABAAFCFIFAABCFIBAAQQAAAAFAAAAAAAAAUgH/2Q==",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "type": "text",
+      "text": "↑ Frame #0 @ 0.00s"
+    },
+    {
+      "type": "image",
+      "data": "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",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "type": "text",
+      "text": "↑ Frame #6 @ 24.00s"
+    },
+    {
+      "type": "image",
+      "data": "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",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "type": "text",
+      "text": "↑ Frame #12 @ 48.00s"
+    },
+    {
+      "type": "image",
+      "data": "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",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "type": "text",
+      "text": "↑ Frame #17 @ 68.00s"
+    },
+    {
+      "type": "image",
+      "data": "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",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "type": "text",
+      "text": "↑ Frame #23 @ 92.00s"
+    },
+    {
+      "type": "image",
+      "data": "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",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "type": "text",
+      "text": "↑ Frame #29 @ 116.00s"
+    },
+    {
+      "type": "text",
+      "text": "\n(6 inline thumb(s) evenly sampled; 24 more as paths — use video_get_frame for a moment.)"
+    }
+  ],
+  "structuredContent": {
+    "frames": [
+      {
+        "index": 0,
+        "timeSec": 0,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0001.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 1,
+        "timeSec": 4,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0002.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 2,
+        "timeSec": 8,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0003.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 3,
+        "timeSec": 12,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0004.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 4,
+        "timeSec": 16,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0005.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 5,
+        "timeSec": 20,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0006.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 6,
+        "timeSec": 24,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0007.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 7,
+        "timeSec": 28,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0008.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 8,
+        "timeSec": 32,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0009.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 9,
+        "timeSec": 36,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0010.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 10,
+        "timeSec": 40,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0011.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 11,
+        "timeSec": 44,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0012.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 12,
+        "timeSec": 48,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0013.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 13,
+        "timeSec": 52,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0014.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 14,
+        "timeSec": 56,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0015.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 15,
+        "timeSec": 60,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0016.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 16,
+        "timeSec": 64,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0017.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 17,
+        "timeSec": 68,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0018.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 18,
+        "timeSec": 72,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0019.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 19,
+        "timeSec": 76,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0020.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 20,
+        "timeSec": 80,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0021.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 21,
+        "timeSec": 84,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0022.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 22,
+        "timeSec": 88,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0023.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 23,
+        "timeSec": 92,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0024.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 24,
+        "timeSec": 96,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0025.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 25,
+        "timeSec": 100,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0026.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 26,
+        "timeSec": 104,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0027.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 27,
+        "timeSec": 108,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0028.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 28,
+        "timeSec": 112,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0029.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "index": 29,
+        "timeSec": 116,
+        "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0030.jpg",
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "inlineCount": 6,
+    "inlineIndices": [
+      0,
+      6,
+      12,
+      17,
+      23,
+      29
+    ],
+    "summary": "8:08 · 768×576 · 30fps · has audio\nSpeech (whisper.cpp, 110 segs): “假设世界上最好的程序源 今天就在你公司里 而且随时可以为你工作 你会让他做什么 这个问题来自 Greg Brockman 的一次常访谈 后文会区分原始观点和本篇分析 Greg 提到 最强的编程模型已经强到 他自己越来越少亲手协软件 更多时候 他是在告诉 AI 要做什么 在不断反馈 纠编 把标准网上抬 当一个接近顶级的数字团队 逐渐成为更多人的公共能力 差距会落到另一个地方 你把这份能力用在了什么问题上 你当然可以让 AI 改邮件 做总结…”\n30 keyframe(s) extracted\n1 warning(s)",
+    "info": {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/media/7694280596605052005.mp4",
+      "source": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/media/7694280596605052005.mp4",
+      "sourceKind": "local",
+      "durationSec": 488.175,
+      "width": 768,
+      "height": 576,
+      "fps": 30,
+      "videoCodec": "hevc",
+      "audioCodec": "aac",
+      "hasAudio": true,
+      "hasVideo": true,
+      "bitrate": 135620,
+      "sizeBytes": 8275835,
+      "formatName": "mov,mp4 (AVFoundation adapter)"
+    },
+    "ocrHitCount": 0,
+    "ocr": [],
+    "transcript": {
+      "source": "whisper.cpp",
+      "language": "zh",
+      "segmentCount": 110,
+      "fullText": "假设世界上最好的程序源 今天就在你公司里 而且随时可以为你工作 你会让他做什么 这个问题来自 Greg Brockman 的一次常访谈 后文会区分原始观点和本篇分析 Greg 提到 最强的编程模型已经强到 他自己越来越少亲手协软件 更多时候 他是在告诉 AI 要做什么 在不断反馈 纠编 把标准网上抬 当一个接近顶级的数字团队 逐渐成为更多人的公共能力 差距会落到另一个地方 你把这份能力用在了什么问题上 你当然可以让 AI 改邮件 做总结 搭业面 这些都有价值 但如果能力已经大幅提升 我们就该继续追问 有没有什么问题 过去因为太贵 太慢 所以连想都不敢想 这就是最容易被忽略的反转 工具已经很强了 可我们交给他的任务 可能还停留在最小的一层 GriG 说得很克制 我们都可以把野心的上线抬高 我更愿意把它理解成 重新审视那些过去受制于成本 团队和时间 根本碰不起的问题 访谈里GriG 举了一个很具体的例子 一家鼓动表电 这个例子特别好 因为它离科技公司很远 老板的第一反应很正常 我就是卖鼓动表的 AI跟我有什么关系 可GriG没有继续解释技术 而是换了一个问法 换成如果世界上最好的程序员已经为你工作 老板就能想到具体事情 先做一个真正能用的网站 再为每一块表建立页面 把年代 设计和故事讲清楚 把这件事在拆开 先整理表款资料 再写清历史故事 然后做成独立页面 最后让故客更容易减所和理解 过去这套工作很重 现在第一次可能做得起 过去很多事情没有发生 未必是因为他们没有价值 常常只是交付成本太高 没有程序员 没有设计师 没有研究时间 一个好想法就只能停在纸上 把这度强拆开看 通常至少有四层 开发 设计 研究和持续投入的时间 AI不止替其中一个人提诉 他同时压低了几层门砍 这里要纠正一个误解 AI什么都能做 不等于它会自动告诉你什么值得做 工具越通用 第一句话 反而越难写 这就是访谈里谈到的空白液问题 如果你也卡在空白液 不用先学100个提示词 先问四件事 什么每天重复 哪里最容易出错 那些需求因为人手不够被放弃 那些事有价值 却一直跪到不值得做 接下来是整场访谈里最值得创业者重视的一层 当软件开发越来越普及 真正稀缺的会更多的回到现实世界 GRAG用教育举例 你不能只说我要做一个教育AI 因为真实世界里同时有学生 老师 家长 学校管理者 还有採购与制度约束 学生在乎好不好用 老师在乎能不能进入教学流程 家长在乎结果 学校管理者还要考虑何归 採购和责任 只理解模型能力 远远不够 业面可以快速生成 代码也会越来越便宜 但现实工作里还有沟通 採购 责任和信任 这些东西不会因为模型升级就自动消失 把GRAG的意思换成更直白的话 一个产品至少要回答四个现实问题 谁会用 谁愿意付钱 谁承担风险 谁有权决定採购和成功标准 顺着这个逻辑会出现一次很重要的变化 过去 离代码最近的人更容易拥有产品权 现在 离问题最近的人 也有能力把自己的行业判断做成产品 AI可以帮你写代码 做研究 整理资料 但它不能让你屏空拥有十年的行业经验 那些看起来合理 实际根本推不动的地方 通常只有离现场进的人知道 有了问题距离 下一步还要判断 你的价值是建立在模型持续进步上 还是只建立在模型今天的缺陷上 顺着GRAG的逻辑 我会加一道压力测试 假设模型再强时辈 你的产品会更值钱 还是更不值钱 第一 模型补上今天的能力缺口 你的功能还剩什么 第二 客户能不能轻易绕开你 第三 你有没有真实流程 数据和交付结果 证明自己不只是一个包装层 第一 类产品 用提示词 规则和人工补丁 绕过模型今天做不到的事 第二 类产品 把模型接近真实流程 持续积累数据 交付关系和信任 模型越强 两者的命运越不一样 更耐久的东西 通常不是一段提示词 而是6类资产 用户理解 行业关系 独特数据真实 流程 交付能力和信任 模型越能做事 这些资产越能被放大 把这一张压成一句话 护成和别见在AI今天做不到的地方 更好的状态是 AI越能做 你手里的东西越值钱 访谈里 主持人Marena把另一个机会总结得很准确 过去只能做为一个功能存在的小问题 今天可能第一次足以支撑一门独立生意 Grag 当场表示认同 Grag 把经济比做一个分型 进入医疗 制造 教育 或专业服务 继续放大 会看到越来越细的岗位 任务和低效流程 过去他们太小 现在未必 律师 保险经济人 供应链专家 制造工程师 财税顾问 过去可能离问题很近 确离产品很远 现在AI正在缩短中间这段距离 比如保险资料反复合对 供应链一场反复追踪 财税财料反复规矩 这些问题单次不大 但只要高屏 可交付有人愿意付钱 就可能从功能长成产品 所谓复合型人才 并不需要一个人重新学完所有专业 更现实的组合是 在一个行业里扎得够深 能定一问题 再用AI接上过去够不到的研究 设计和开发能力 观点讲到这里 最重要的是怎么落地 GRAG给的方法其实很普遂 从一个小痛点开始 先自己把流程跑通 GRAG建议 先亲手做 最好连续跑三到五遍 因为只有真的做过 你才知道哪些动作稳定 哪些地方需要判断 哪些异常必须交回给人 更具体一点 选一个小痛点 手工完成第一次 重复三到五遍 标出稳定步骤和判断点 在自动化确定部分 最后保留异常处理和人工复合 顺着这套方法 人机边界就清楚了 机器接住稳定 重复 可检查的动作 人负责目标 例外和责任 人没有被删掉 只是把注意力放回了判断 所以 自动化的顺序很重要 先把正确的事情做出来 再把正确的事情自动化 流程本身都没搞明白 系统愈快 错误只会扩散的愈快 把整场访谈压缩下来 只需要记住三个判断 第一 别指问AI为什么 要问什么问题值得解决 第二 别把价值见在模型缺陷上 第三 先手工跑对 再自动化 最后 再回到开头 如果世界上最好的程序员 今天就为你工作 你最想让他解决什么 别从下一个AI工具开始 先写下那个你已经忍了很久 过去又做不起的问题",
+      "segments": [
+        {
+          "start": 0,
+          "end": 6.54,
+          "text": "假设世界上最好的程序源 今天就在你公司里 而且随时可以为你工作"
+        },
+        {
+          "start": 6.54,
+          "end": 8.54,
+          "text": "你会让他做什么"
+        },
+        {
+          "start": 8.54,
+          "end": 12.06,
+          "text": "这个问题来自 Greg Brockman 的一次常访谈"
+        },
+        {
+          "start": 12.06,
+          "end": 15.58,
+          "text": "后文会区分原始观点和本篇分析"
+        },
+        {
+          "start": 15.58,
+          "end": 21.46,
+          "text": "Greg 提到 最强的编程模型已经强到 他自己越来越少亲手协软件"
+        },
+        {
+          "start": 21.46,
+          "end": 28.3,
+          "text": "更多时候 他是在告诉 AI 要做什么 在不断反馈 纠编 把标准网上抬"
+        },
+        {
+          "start": 28.3,
+          "end": 33.1,
+          "text": "当一个接近顶级的数字团队 逐渐成为更多人的公共能力"
+        },
+        {
+          "start": 33.1,
+          "end": 38.02,
+          "text": "差距会落到另一个地方 你把这份能力用在了什么问题上"
+        },
+        {
+          "start": 38.02,
+          "end": 43.62,
+          "text": "你当然可以让 AI 改邮件 做总结 搭业面 这些都有价值"
+        },
+        {
+          "start": 43.62,
+          "end": 47.62,
+          "text": "但如果能力已经大幅提升 我们就该继续追问"
+        },
+        {
+          "start": 47.62,
+          "end": 52.86,
+          "text": "有没有什么问题 过去因为太贵 太慢 所以连想都不敢想"
+        },
+        {
+          "start": 52.86,
+          "end": 57.06,
+          "text": "这就是最容易被忽略的反转 工具已经很强了"
+        },
+        {
+          "start": 57.06,
+          "end": 61.22,
+          "text": "可我们交给他的任务 可能还停留在最小的一层"
+        },
+        {
+          "start": 61.22,
+          "end": 65.66,
+          "text": "GriG 说得很克制 我们都可以把野心的上线抬高"
+        },
+        {
+          "start": 65.66,
+          "end": 71.38,
+          "text": "我更愿意把它理解成 重新审视那些过去受制于成本 团队和时间"
+        },
+        {
+          "start": 71.38,
+          "end": 73.18,
+          "text": "根本碰不起的问题"
+        },
+        {
+          "start": 73.18,
+          "end": 77.78,
+          "text": "访谈里GriG 举了一个很具体的例子 一家鼓动表电"
+        },
+        {
+          "start": 77.78,
+          "end": 81.42,
+          "text": "这个例子特别好 因为它离科技公司很远"
+        },
+        {
+          "start": 81.42,
+          "end": 84.98,
+          "text": "老板的第一反应很正常 我就是卖鼓动表的"
+        },
+        {
+          "start": 84.98,
+          "end": 89.3,
+          "text": "AI跟我有什么关系 可GriG没有继续解释技术"
+        },
+        {
+          "start": 89.3,
+          "end": 94.82,
+          "text": "而是换了一个问法 换成如果世界上最好的程序员已经为你工作"
+        },
+        {
+          "start": 94.82,
+          "end": 98.82,
+          "text": "老板就能想到具体事情 先做一个真正能用的网站"
+        },
+        {
+          "start": 98.82,
+          "end": 103.9,
+          "text": "再为每一块表建立页面 把年代 设计和故事讲清楚"
+        },
+        {
+          "start": 103.9,
+          "end": 107.58,
+          "text": "把这件事在拆开 先整理表款资料"
+        },
+        {
+          "start": 107.58,
+          "end": 111.53999999999999,
+          "text": "再写清历史故事 然后做成独立页面"
+        },
+        {
+          "start": 111.53999999999999,
+          "end": 116.25999999999999,
+          "text": "最后让故客更容易减所和理解 过去这套工作很重"
+        },
+        {
+          "start": 116.25999999999999,
+          "end": 120.58,
+          "text": "现在第一次可能做得起 过去很多事情没有发生"
+        },
+        {
+          "start": 120.58,
+          "end": 125.1,
+          "text": "未必是因为他们没有价值 常常只是交付成本太高"
+        },
+        {
+          "start": 125.1,
+          "end": 128.54,
+          "text": "没有程序员 没有设计师 没有研究时间"
+        },
+        {
+          "start": 128.54,
+          "end": 131.42,
+          "text": "一个好想法就只能停在纸上"
+        },
+        {
+          "start": 131.42,
+          "end": 138.9,
+          "text": "把这度强拆开看 通常至少有四层 开发 设计 研究和持续投入的时间"
+        },
+        {
+          "start": 138.9,
+          "end": 143.78,
+          "text": "AI不止替其中一个人提诉 他同时压低了几层门砍"
+        },
+        {
+          "start": 143.78,
+          "end": 149.7,
+          "text": "这里要纠正一个误解 AI什么都能做 不等于它会自动告诉你什么值得做"
+        },
+        {
+          "start": 149.7,
+          "end": 156.06,
+          "text": "工具越通用 第一句话 反而越难写 这就是访谈里谈到的空白液问题"
+        },
+        {
+          "start": 156.06,
+          "end": 160.46,
+          "text": "如果你也卡在空白液 不用先学100个提示词"
+        },
+        {
+          "start": 160.46,
+          "end": 165.78,
+          "text": "先问四件事 什么每天重复 哪里最容易出错"
+        },
+        {
+          "start": 165.78,
+          "end": 168.66,
+          "text": "那些需求因为人手不够被放弃"
+        },
+        {
+          "start": 168.66,
+          "end": 172.26,
+          "text": "那些事有价值 却一直跪到不值得做"
+        },
+        {
+          "start": 172.26,
+          "end": 175.86,
+          "text": "接下来是整场访谈里最值得创业者重视的一层"
+        },
+        {
+          "start": 175.86,
+          "end": 181.3,
+          "text": "当软件开发越来越普及 真正稀缺的会更多的回到现实世界"
+        },
+        {
+          "start": 181.3,
+          "end": 183.66,
+          "text": "GRAG用教育举例"
+        },
+        {
+          "start": 183.66,
+          "end": 186.46,
+          "text": "你不能只说我要做一个教育AI"
+        },
+        {
+          "start": 186.46,
+          "end": 193.66,
+          "text": "因为真实世界里同时有学生 老师 家长 学校管理者 还有採购与制度约束"
+        },
+        {
+          "start": 193.66,
+          "end": 199.46,
+          "text": "学生在乎好不好用 老师在乎能不能进入教学流程 家长在乎结果"
+        },
+        {
+          "start": 199.46,
+          "end": 203.26,
+          "text": "学校管理者还要考虑何归 採购和责任"
+        },
+        {
+          "start": 203.26,
+          "end": 205.86,
+          "text": "只理解模型能力 远远不够"
+        },
+        {
+          "start": 205.86,
+          "end": 209.46,
+          "text": "业面可以快速生成 代码也会越来越便宜"
+        },
+        {
+          "start": 209.46,
+          "end": 214.66,
+          "text": "但现实工作里还有沟通 採购 责任和信任"
+        },
+        {
+          "start": 214.66,
+          "end": 218.46,
+          "text": "这些东西不会因为模型升级就自动消失"
+        },
+        {
+          "start": 218.46,
+          "end": 224.26,
+          "text": "把GRAG的意思换成更直白的话 一个产品至少要回答四个现实问题"
+        },
+        {
+          "start": 224.26,
+          "end": 230.66,
+          "text": "谁会用 谁愿意付钱 谁承担风险 谁有权决定採购和成功标准"
+        },
+        {
+          "start": 230.66,
+          "end": 234.26,
+          "text": "顺着这个逻辑会出现一次很重要的变化"
+        },
+        {
+          "start": 234.26,
+          "end": 238.46,
+          "text": "过去 离代码最近的人更容易拥有产品权"
+        },
+        {
+          "start": 238.46,
+          "end": 244.26,
+          "text": "现在 离问题最近的人 也有能力把自己的行业判断做成产品"
+        },
+        {
+          "start": 244.26,
+          "end": 251.06,
+          "text": "AI可以帮你写代码 做研究 整理资料 但它不能让你屏空拥有十年的行业经验"
+        },
+        {
+          "start": 251.06,
+          "end": 257.06,
+          "text": "那些看起来合理 实际根本推不动的地方 通常只有离现场进的人知道"
+        },
+        {
+          "start": 257.06,
+          "end": 262.86,
+          "text": "有了问题距离 下一步还要判断 你的价值是建立在模型持续进步上"
+        },
+        {
+          "start": 262.86,
+          "end": 265.86,
+          "text": "还是只建立在模型今天的缺陷上"
+        },
+        {
+          "start": 265.86,
+          "end": 271.26,
+          "text": "顺着GRAG的逻辑 我会加一道压力测试 假设模型再强时辈"
+        },
+        {
+          "start": 271.26,
+          "end": 274.46,
+          "text": "你的产品会更值钱 还是更不值钱"
+        },
+        {
+          "start": 274.46,
+          "end": 279.06,
+          "text": "第一 模型补上今天的能力缺口 你的功能还剩什么"
+        },
+        {
+          "start": 279.06,
+          "end": 282.26,
+          "text": "第二 客户能不能轻易绕开你"
+        },
+        {
+          "start": 282.26,
+          "end": 288.86,
+          "text": "第三 你有没有真实流程 数据和交付结果 证明自己不只是一个包装层"
+        },
+        {
+          "start": 288.86,
+          "end": 295.26,
+          "text": "第一 类产品 用提示词 规则和人工补丁 绕过模型今天做不到的事"
+        },
+        {
+          "start": 295.26,
+          "end": 302.06,
+          "text": "第二 类产品 把模型接近真实流程 持续积累数据 交付关系和信任"
+        },
+        {
+          "start": 302.06,
+          "end": 305.26,
+          "text": "模型越强 两者的命运越不一样"
+        },
+        {
+          "start": 305.26,
+          "end": 313.35,
+          "text": "更耐久的东西 通常不是一段提示词 而是6类资产 用户理解 行业关系 独特数据真实"
+        },
+        {
+          "start": 313.35,
+          "end": 315.66,
+          "text": "流程 交付能力和信任"
+        },
+        {
+          "start": 315.66,
+          "end": 319.46,
+          "text": "模型越能做事 这些资产越能被放大"
+        },
+        {
+          "start": 319.46,
+          "end": 324.86,
+          "text": "把这一张压成一句话 护成和别见在AI今天做不到的地方"
+        },
+        {
+          "start": 324.86,
+          "end": 329.26,
+          "text": "更好的状态是 AI越能做 你手里的东西越值钱"
+        },
+        {
+          "start": 329.26,
+          "end": 333.46,
+          "text": "访谈里 主持人Marena把另一个机会总结得很准确"
+        },
+        {
+          "start": 333.46,
+          "end": 339.46,
+          "text": "过去只能做为一个功能存在的小问题 今天可能第一次足以支撑一门独立生意"
+        },
+        {
+          "start": 339.46,
+          "end": 341.65999999999997,
+          "text": "Grag 当场表示认同"
+        },
+        {
+          "start": 341.65999999999997,
+          "end": 344.86,
+          "text": "Grag 把经济比做一个分型"
+        },
+        {
+          "start": 344.86,
+          "end": 353.26,
+          "text": "进入医疗 制造 教育 或专业服务 继续放大 会看到越来越细的岗位 任务和低效流程"
+        },
+        {
+          "start": 353.26,
+          "end": 356.06,
+          "text": "过去他们太小 现在未必"
+        },
+        {
+          "start": 356.06,
+          "end": 361.86,
+          "text": "律师 保险经济人 供应链专家 制造工程师 财税顾问"
+        },
+        {
+          "start": 361.86,
+          "end": 365.46,
+          "text": "过去可能离问题很近 确离产品很远"
+        },
+        {
+          "start": 365.46,
+          "end": 369.06,
+          "text": "现在AI正在缩短中间这段距离"
+        },
+        {
+          "start": 369.06,
+          "end": 375.26,
+          "text": "比如保险资料反复合对 供应链一场反复追踪 财税财料反复规矩"
+        },
+        {
+          "start": 375.26,
+          "end": 380.26,
+          "text": "这些问题单次不大 但只要高屏 可交付有人愿意付钱"
+        },
+        {
+          "start": 380.26,
+          "end": 382.66,
+          "text": "就可能从功能长成产品"
+        },
+        {
+          "start": 382.66,
+          "end": 387.46,
+          "text": "所谓复合型人才 并不需要一个人重新学完所有专业"
+        },
+        {
+          "start": 387.46,
+          "end": 392.65999999999997,
+          "text": "更现实的组合是 在一个行业里扎得够深 能定一问题"
+        },
+        {
+          "start": 392.65999999999997,
+          "end": 397.06,
+          "text": "再用AI接上过去够不到的研究 设计和开发能力"
+        },
+        {
+          "start": 397.06,
+          "end": 400.26,
+          "text": "观点讲到这里 最重要的是怎么落地"
+        },
+        {
+          "start": 400.26,
+          "end": 406.65999999999997,
+          "text": "GRAG给的方法其实很普遂 从一个小痛点开始 先自己把流程跑通"
+        },
+        {
+          "start": 406.65999999999997,
+          "end": 411.06,
+          "text": "GRAG建议 先亲手做 最好连续跑三到五遍"
+        },
+        {
+          "start": 411.06,
+          "end": 414.65999999999997,
+          "text": "因为只有真的做过 你才知道哪些动作稳定"
+        },
+        {
+          "start": 414.65999999999997,
+          "end": 418.65999999999997,
+          "text": "哪些地方需要判断 哪些异常必须交回给人"
+        },
+        {
+          "start": 418.65999999999997,
+          "end": 423.06,
+          "text": "更具体一点 选一个小痛点 手工完成第一次"
+        },
+        {
+          "start": 423.06,
+          "end": 427.06,
+          "text": "重复三到五遍 标出稳定步骤和判断点"
+        },
+        {
+          "start": 427.06,
+          "end": 431.86,
+          "text": "在自动化确定部分 最后保留异常处理和人工复合"
+        },
+        {
+          "start": 431.86,
+          "end": 434.86,
+          "text": "顺着这套方法 人机边界就清楚了"
+        },
+        {
+          "start": 434.86,
+          "end": 438.66,
+          "text": "机器接住稳定 重复 可检查的动作"
+        },
+        {
+          "start": 438.66,
+          "end": 442.86,
+          "text": "人负责目标 例外和责任 人没有被删掉"
+        },
+        {
+          "start": 442.86,
+          "end": 445.06,
+          "text": "只是把注意力放回了判断"
+        },
+        {
+          "start": 445.06,
+          "end": 448.06,
+          "text": "所以 自动化的顺序很重要"
+        },
+        {
+          "start": 448.06,
+          "end": 452.06,
+          "text": "先把正确的事情做出来 再把正确的事情自动化"
+        },
+        {
+          "start": 452.06,
+          "end": 457.46,
+          "text": "流程本身都没搞明白 系统愈快 错误只会扩散的愈快"
+        },
+        {
+          "start": 457.46,
+          "end": 461.46,
+          "text": "把整场访谈压缩下来 只需要记住三个判断"
+        },
+        {
+          "start": 461.46,
+          "end": 466.26,
+          "text": "第一 别指问AI为什么 要问什么问题值得解决"
+        },
+        {
+          "start": 466.26,
+          "end": 469.65999999999997,
+          "text": "第二 别把价值见在模型缺陷上"
+        },
+        {
+          "start": 469.65999999999997,
+          "end": 473.06,
+          "text": "第三 先手工跑对 再自动化"
+        },
+        {
+          "start": 473.06,
+          "end": 475.26,
+          "text": "最后 再回到开头"
+        },
+        {
+          "start": 475.26,
+          "end": 478.86,
+          "text": "如果世界上最好的程序员 今天就为你工作"
+        },
+        {
+          "start": 478.86,
+          "end": 480.86,
+          "text": "你最想让他解决什么"
+        },
+        {
+          "start": 480.86,
+          "end": 483.26,
+          "text": "别从下一个AI工具开始"
+        },
+        {
+          "start": 483.26,
+          "end": 488.06,
+          "text": "先写下那个你已经忍了很久 过去又做不起的问题"
+        }
+      ]
+    },
+    "warnings": [
+      "ASR is machine-generated and may contain wrong words; timestamps are approximate, not a prosody assessment."
+    ],
+    "detail": "detailed",
+    "elapsedMs": 39561,
+    "timeline": [
+      {
+        "timeSec": 0,
+        "kind": "frame",
+        "text": "Frame #0 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0001.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0001.jpg"
+      },
+      {
+        "timeSec": 0,
+        "kind": "speech",
+        "text": "假设世界上最好的程序源 今天就在你公司里 而且随时可以为你工作"
+      },
+      {
+        "timeSec": 4,
+        "kind": "frame",
+        "text": "Frame #1 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0002.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0002.jpg"
+      },
+      {
+        "timeSec": 6.54,
+        "kind": "speech",
+        "text": "你会让他做什么"
+      },
+      {
+        "timeSec": 8,
+        "kind": "frame",
+        "text": "Frame #2 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0003.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0003.jpg"
+      },
+      {
+        "timeSec": 8.54,
+        "kind": "speech",
+        "text": "这个问题来自 Greg Brockman 的一次常访谈"
+      },
+      {
+        "timeSec": 12,
+        "kind": "frame",
+        "text": "Frame #3 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0004.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0004.jpg"
+      },
+      {
+        "timeSec": 12.06,
+        "kind": "speech",
+        "text": "后文会区分原始观点和本篇分析"
+      },
+      {
+        "timeSec": 15.58,
+        "kind": "speech",
+        "text": "Greg 提到 最强的编程模型已经强到 他自己越来越少亲手协软件"
+      },
+      {
+        "timeSec": 16,
+        "kind": "frame",
+        "text": "Frame #4 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0005.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0005.jpg"
+      },
+      {
+        "timeSec": 20,
+        "kind": "frame",
+        "text": "Frame #5 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0006.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0006.jpg"
+      },
+      {
+        "timeSec": 21.46,
+        "kind": "speech",
+        "text": "更多时候 他是在告诉 AI 要做什么 在不断反馈 纠编 把标准网上抬"
+      },
+      {
+        "timeSec": 24,
+        "kind": "frame",
+        "text": "Frame #6 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0007.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0007.jpg"
+      },
+      {
+        "timeSec": 28,
+        "kind": "frame",
+        "text": "Frame #7 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0008.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0008.jpg"
+      },
+      {
+        "timeSec": 28.3,
+        "kind": "speech",
+        "text": "当一个接近顶级的数字团队 逐渐成为更多人的公共能力"
+      },
+      {
+        "timeSec": 32,
+        "kind": "frame",
+        "text": "Frame #8 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0009.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0009.jpg"
+      },
+      {
+        "timeSec": 33.1,
+        "kind": "speech",
+        "text": "差距会落到另一个地方 你把这份能力用在了什么问题上"
+      },
+      {
+        "timeSec": 36,
+        "kind": "frame",
+        "text": "Frame #9 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0010.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0010.jpg"
+      },
+      {
+        "timeSec": 38.02,
+        "kind": "speech",
+        "text": "你当然可以让 AI 改邮件 做总结 搭业面 这些都有价值"
+      },
+      {
+        "timeSec": 40,
+        "kind": "frame",
+        "text": "Frame #10 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0011.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0011.jpg"
+      },
+      {
+        "timeSec": 43.62,
+        "kind": "speech",
+        "text": "但如果能力已经大幅提升 我们就该继续追问"
+      },
+      {
+        "timeSec": 44,
+        "kind": "frame",
+        "text": "Frame #11 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0012.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0012.jpg"
+      },
+      {
+        "timeSec": 47.62,
+        "kind": "speech",
+        "text": "有没有什么问题 过去因为太贵 太慢 所以连想都不敢想"
+      },
+      {
+        "timeSec": 48,
+        "kind": "frame",
+        "text": "Frame #12 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0013.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0013.jpg"
+      },
+      {
+        "timeSec": 52,
+        "kind": "frame",
+        "text": "Frame #13 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0014.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0014.jpg"
+      },
+      {
+        "timeSec": 52.86,
+        "kind": "speech",
+        "text": "这就是最容易被忽略的反转 工具已经很强了"
+      },
+      {
+        "timeSec": 56,
+        "kind": "frame",
+        "text": "Frame #14 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0015.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0015.jpg"
+      },
+      {
+        "timeSec": 57.06,
+        "kind": "speech",
+        "text": "可我们交给他的任务 可能还停留在最小的一层"
+      },
+      {
+        "timeSec": 60,
+        "kind": "frame",
+        "text": "Frame #15 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0016.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0016.jpg"
+      },
+      {
+        "timeSec": 61.22,
+        "kind": "speech",
+        "text": "GriG 说得很克制 我们都可以把野心的上线抬高"
+      },
+      {
+        "timeSec": 64,
+        "kind": "frame",
+        "text": "Frame #16 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0017.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0017.jpg"
+      },
+      {
+        "timeSec": 65.66,
+        "kind": "speech",
+        "text": "我更愿意把它理解成 重新审视那些过去受制于成本 团队和时间"
+      },
+      {
+        "timeSec": 68,
+        "kind": "frame",
+        "text": "Frame #17 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0018.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0018.jpg"
+      },
+      {
+        "timeSec": 71.38,
+        "kind": "speech",
+        "text": "根本碰不起的问题"
+      },
+      {
+        "timeSec": 72,
+        "kind": "frame",
+        "text": "Frame #18 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0019.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0019.jpg"
+      },
+      {
+        "timeSec": 73.18,
+        "kind": "speech",
+        "text": "访谈里GriG 举了一个很具体的例子 一家鼓动表电"
+      },
+      {
+        "timeSec": 76,
+        "kind": "frame",
+        "text": "Frame #19 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0020.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0020.jpg"
+      },
+      {
+        "timeSec": 77.78,
+        "kind": "speech",
+        "text": "这个例子特别好 因为它离科技公司很远"
+      },
+      {
+        "timeSec": 80,
+        "kind": "frame",
+        "text": "Frame #20 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0021.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0021.jpg"
+      },
+      {
+        "timeSec": 81.42,
+        "kind": "speech",
+        "text": "老板的第一反应很正常 我就是卖鼓动表的"
+      },
+      {
+        "timeSec": 84,
+        "kind": "frame",
+        "text": "Frame #21 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0022.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0022.jpg"
+      },
+      {
+        "timeSec": 84.98,
+        "kind": "speech",
+        "text": "AI跟我有什么关系 可GriG没有继续解释技术"
+      },
+      {
+        "timeSec": 88,
+        "kind": "frame",
+        "text": "Frame #22 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0023.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0023.jpg"
+      },
+      {
+        "timeSec": 89.3,
+        "kind": "speech",
+        "text": "而是换了一个问法 换成如果世界上最好的程序员已经为你工作"
+      },
+      {
+        "timeSec": 92,
+        "kind": "frame",
+        "text": "Frame #23 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0024.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0024.jpg"
+      },
+      {
+        "timeSec": 94.82,
+        "kind": "speech",
+        "text": "老板就能想到具体事情 先做一个真正能用的网站"
+      },
+      {
+        "timeSec": 96,
+        "kind": "frame",
+        "text": "Frame #24 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0025.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0025.jpg"
+      },
+      {
+        "timeSec": 98.82,
+        "kind": "speech",
+        "text": "再为每一块表建立页面 把年代 设计和故事讲清楚"
+      },
+      {
+        "timeSec": 100,
+        "kind": "frame",
+        "text": "Frame #25 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0026.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0026.jpg"
+      },
+      {
+        "timeSec": 103.9,
+        "kind": "speech",
+        "text": "把这件事在拆开 先整理表款资料"
+      },
+      {
+        "timeSec": 104,
+        "kind": "frame",
+        "text": "Frame #26 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0027.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0027.jpg"
+      },
+      {
+        "timeSec": 107.58,
+        "kind": "speech",
+        "text": "再写清历史故事 然后做成独立页面"
+      },
+      {
+        "timeSec": 108,
+        "kind": "frame",
+        "text": "Frame #27 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0028.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0028.jpg"
+      },
+      {
+        "timeSec": 111.53999999999999,
+        "kind": "speech",
+        "text": "最后让故客更容易减所和理解 过去这套工作很重"
+      },
+      {
+        "timeSec": 112,
+        "kind": "frame",
+        "text": "Frame #28 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0029.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0029.jpg"
+      },
+      {
+        "timeSec": 116,
+        "kind": "frame",
+        "text": "Frame #29 (/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0030.jpg)",
+        "framePath": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/cache/frames/d0e52c05975ef81f/interval/frame_0030.jpg"
+      },
+      {
+        "timeSec": 116.25999999999999,
+        "kind": "speech",
+        "text": "现在第一次可能做得起 过去很多事情没有发生"
+      },
+      {
+        "timeSec": 120.58,
+        "kind": "speech",
+        "text": "未必是因为他们没有价值 常常只是交付成本太高"
+      },
+      {
+        "timeSec": 125.1,
+        "kind": "speech",
+        "text": "没有程序员 没有设计师 没有研究时间"
+      },
+      {
+        "timeSec": 128.54,
+        "kind": "speech",
+        "text": "一个好想法就只能停在纸上"
+      },
+      {
+        "timeSec": 131.42,
+        "kind": "speech",
+        "text": "把这度强拆开看 通常至少有四层 开发 设计 研究和持续投入的时间"
+      },
+      {
+        "timeSec": 138.9,
+        "kind": "speech",
+        "text": "AI不止替其中一个人提诉 他同时压低了几层门砍"
+      },
+      {
+        "timeSec": 143.78,
+        "kind": "speech",
+        "text": "这里要纠正一个误解 AI什么都能做 不等于它会自动告诉你什么值得做"
+      },
+      {
+        "timeSec": 149.7,
+        "kind": "speech",
+        "text": "工具越通用 第一句话 反而越难写 这就是访谈里谈到的空白液问题"
+      },
+      {
+        "timeSec": 156.06,
+        "kind": "speech",
+        "text": "如果你也卡在空白液 不用先学100个提示词"
+      },
+      {
+        "timeSec": 160.46,
+        "kind": "speech",
+        "text": "先问四件事 什么每天重复 哪里最容易出错"
+      },
+      {
+        "timeSec": 165.78,
+        "kind": "speech",
+        "text": "那些需求因为人手不够被放弃"
+      },
+      {
+        "timeSec": 168.66,
+        "kind": "speech",
+        "text": "那些事有价值 却一直跪到不值得做"
+      },
+      {
+        "timeSec": 172.26,
+        "kind": "speech",
+        "text": "接下来是整场访谈里最值得创业者重视的一层"
+      },
+      {
+        "timeSec": 175.86,
+        "kind": "speech",
+        "text": "当软件开发越来越普及 真正稀缺的会更多的回到现实世界"
+      },
+      {
+        "timeSec": 181.3,
+        "kind": "speech",
+        "text": "GRAG用教育举例"
+      },
+      {
+        "timeSec": 183.66,
+        "kind": "speech",
+        "text": "你不能只说我要做一个教育AI"
+      },
+      {
+        "timeSec": 186.46,
+        "kind": "speech",
+        "text": "因为真实世界里同时有学生 老师 家长 学校管理者 还有採购与制度约束"
+      },
+      {
+        "timeSec": 193.66,
+        "kind": "speech",
+        "text": "学生在乎好不好用 老师在乎能不能进入教学流程 家长在乎结果"
+      },
+      {
+        "timeSec": 199.46,
+        "kind": "speech",
+        "text": "学校管理者还要考虑何归 採购和责任"
+      },
+      {
+        "timeSec": 203.26,
+        "kind": "speech",
+        "text": "只理解模型能力 远远不够"
+      },
+      {
+        "timeSec": 205.86,
+        "kind": "speech",
+        "text": "业面可以快速生成 代码也会越来越便宜"
+      },
+      {
+        "timeSec": 209.46,
+        "kind": "speech",
+        "text": "但现实工作里还有沟通 採购 责任和信任"
+      },
+      {
+        "timeSec": 214.66,
+        "kind": "speech",
+        "text": "这些东西不会因为模型升级就自动消失"
+      },
+      {
+        "timeSec": 218.46,
+        "kind": "speech",
+        "text": "把GRAG的意思换成更直白的话 一个产品至少要回答四个现实问题"
+      },
+      {
+        "timeSec": 224.26,
+        "kind": "speech",
+        "text": "谁会用 谁愿意付钱 谁承担风险 谁有权决定採购和成功标准"
+      },
+      {
+        "timeSec": 230.66,
+        "kind": "speech",
+        "text": "顺着这个逻辑会出现一次很重要的变化"
+      },
+      {
+        "timeSec": 234.26,
+        "kind": "speech",
+        "text": "过去 离代码最近的人更容易拥有产品权"
+      },
+      {
+        "timeSec": 238.46,
+        "kind": "speech",
+        "text": "现在 离问题最近的人 也有能力把自己的行业判断做成产品"
+      },
+      {
+        "timeSec": 244.26,
+        "kind": "speech",
+        "text": "AI可以帮你写代码 做研究 整理资料 但它不能让你屏空拥有十年的行业经验"
+      },
+      {
+        "timeSec": 251.06,
+        "kind": "speech",
+        "text": "那些看起来合理 实际根本推不动的地方 通常只有离现场进的人知道"
+      },
+      {
+        "timeSec": 257.06,
+        "kind": "speech",
+        "text": "有了问题距离 下一步还要判断 你的价值是建立在模型持续进步上"
+      },
+      {
+        "timeSec": 262.86,
+        "kind": "speech",
+        "text": "还是只建立在模型今天的缺陷上"
+      },
+      {
+        "timeSec": 265.86,
+        "kind": "speech",
+        "text": "顺着GRAG的逻辑 我会加一道压力测试 假设模型再强时辈"
+      },
+      {
+        "timeSec": 271.26,
+        "kind": "speech",
+        "text": "你的产品会更值钱 还是更不值钱"
+      },
+      {
+        "timeSec": 274.46,
+        "kind": "speech",
+        "text": "第一 模型补上今天的能力缺口 你的功能还剩什么"
+      },
+      {
+        "timeSec": 279.06,
+        "kind": "speech",
+        "text": "第二 客户能不能轻易绕开你"
+      },
+      {
+        "timeSec": 282.26,
+        "kind": "speech",
+        "text": "第三 你有没有真实流程 数据和交付结果 证明自己不只是一个包装层"
+      },
+      {
+        "timeSec": 288.86,
+        "kind": "speech",
+        "text": "第一 类产品 用提示词 规则和人工补丁 绕过模型今天做不到的事"
+      },
+      {
+        "timeSec": 295.26,
+        "kind": "speech",
+        "text": "第二 类产品 把模型接近真实流程 持续积累数据 交付关系和信任"
+      },
+      {
+        "timeSec": 302.06,
+        "kind": "speech",
+        "text": "模型越强 两者的命运越不一样"
+      },
+      {
+        "timeSec": 305.26,
+        "kind": "speech",
+        "text": "更耐久的东西 通常不是一段提示词 而是6类资产 用户理解 行业关系 独特数据真实"
+      },
+      {
+        "timeSec": 313.35,
+        "kind": "speech",
+        "text": "流程 交付能力和信任"
+      },
+      {
+        "timeSec": 315.66,
+        "kind": "speech",
+        "text": "模型越能做事 这些资产越能被放大"
+      },
+      {
+        "timeSec": 319.46,
+        "kind": "speech",
+        "text": "把这一张压成一句话 护成和别见在AI今天做不到的地方"
+      }
+    ],
+    "sidecarPath": null
+  }
+}

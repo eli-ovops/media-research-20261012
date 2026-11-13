@@ -1,0 +1,28 @@
+{
+  "decision": "PARTIAL_ACCEPTED_RADAR_METHOD_AND_RECENT_DISCUSSION_NOT_HOTSPOT_PASS",
+  "content_id": "content-radar-20261012",
+  "owner_thread_id": "01a11442-a6d9-7413-88b3-191ce5cb037b",
+  "owner_turn": "01a12e9f-6bff-77e2-8d05-4c195ecbc3c3",
+  "evidence_read": [
+    "雷达简报.md",
+    "回执.json",
+    "证据索引.json",
+    "读取覆盖.json",
+    "evidence/7694280596605052005/source.json",
+    "cache/audio/b95dc5b485d19d68/transcript.json"
+  ],
+  "pmo_actual_images": [
+    "fullspan-1.jpg",
+    "fullspan-5.jpg"
+  ],
+  "observations": "一条10月8日近期内容V2可用于结构/自己方法改编；另两条历史常青备选；不能作为完整5账号本周热点雷达验收",
+  "unknowns": [
+    "3主页未取得实时目录",
+    "原访谈全文未取得，不能用Greg原话背书",
+    "互动图标语义未核",
+    "连续声画未读"
+  ],
+  "next": "交用户选题或决定补核方向，02/03保持等待",
+  "automatic_radar": false,
+  "actual_route": "UNKNOWN"
+}

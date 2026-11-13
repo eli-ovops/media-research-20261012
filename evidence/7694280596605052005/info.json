@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\n  \"path\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/media/7694280596605052005.mp4\",\n  \"source\": \"/Volumes/EXTERNAL/自媒体/内容雷达/20261012/media/7694280596605052005.mp4\",\n  \"sourceKind\": \"local\",\n  \"durationSec\": 488.175,\n  \"width\": 768,\n  \"height\": 576,\n  \"fps\": 30,\n  \"videoCodec\": \"hevc\",\n  \"audioCodec\": \"aac\",\n  \"hasAudio\": true,\n  \"hasVideo\": true,\n  \"bitrate\": 135620,\n  \"sizeBytes\": 8275835,\n  \"formatName\": \"mov,mp4 (AVFoundation adapter)\",\n  \"warnings\": []\n}"
+    }
+  ],
+  "structuredContent": {
+    "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/media/7694280596605052005.mp4",
+    "source": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/media/7694280596605052005.mp4",
+    "sourceKind": "local",
+    "durationSec": 488.175,
+    "width": 768,
+    "height": 576,
+    "fps": 30,
+    "videoCodec": "hevc",
+    "audioCodec": "aac",
+    "hasAudio": true,
+    "hasVideo": true,
+    "bitrate": 135620,
+    "sizeBytes": 8275835,
+    "formatName": "mov,mp4 (AVFoundation adapter)",
+    "warnings": []
+  }
+}

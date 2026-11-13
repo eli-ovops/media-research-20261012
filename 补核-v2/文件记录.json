@@ -1,0 +1,43 @@
+{
+  "files": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/补核-v2/README.md",
+      "bytes": 1157,
+      "sha256": "d31b97ee06d9144db99a858ab741de238d0b4f2bdd620f30602897ea776d0beb",
+      "source_and_purpose": "本轮补核报告与原始证据，待PMO验收保留"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/补核-v2/回执.json",
+      "bytes": 1370,
+      "sha256": "e99ee6085582e09cdc8df45f35301edadcb2743db341910e205796718f7531d7",
+      "source_and_purpose": "本轮补核报告与原始证据，待PMO验收保留"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/补核-v2/样本.json",
+      "bytes": 3474,
+      "sha256": "a31da811278392f80f329241af6d9a323f36aaba05da97b1d167d20f10e28c29",
+      "source_and_purpose": "本轮补核报告与原始证据，待PMO验收保留"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/补核-v2/浏览器原始回执.json",
+      "bytes": 19784,
+      "sha256": "c5e7b545a1bbbcb5f165712cf889e5800af356aa071e6accd193b49f14d81784",
+      "source_and_purpose": "本轮补核报告与原始证据，待PMO验收保留"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/补核-v2/证据索引.json",
+      "bytes": 2369,
+      "sha256": "5b89141cacdf0151030a0e1b139e68ffb12e5b98fca4ee5d391a236e3355340c",
+      "source_and_purpose": "本轮补核报告与原始证据，待PMO验收保留"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/补核-v2/雷达简报.md",
+      "bytes": 5453,
+      "sha256": "298457a5d842613761d758330042f8249c36ddf465977a44cc173f8a330433de",
+      "source_and_purpose": "本轮补核报告与原始证据，待PMO验收保留"
+    }
+  ],
+  "new_temporary_media": "NONE",
+  "first_round_modified": false,
+  "cleanup": "无新建一次性缓存可清理"
+}

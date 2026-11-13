@@ -1,0 +1,47 @@
+{
+  "official_events": [
+    {
+      "id": "openai-audio-20261006",
+      "publisher": "OpenAI",
+      "date": "2026-10-06",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "section": "October 6 Audio uploads in ChatGPT",
+      "read_level": "官方正文已读",
+      "verified": "支持音频文件转录、总结与问答；有套餐/地区/客户端/工作区条件；转录可能出错",
+      "local_test": "NOT_EXECUTED",
+      "platform_spread": "UNKNOWN"
+    },
+    {
+      "id": "openai-ui-20261007",
+      "publisher": "OpenAI",
+      "date": "2026-10-07",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "section": "October 7 GPT-6 and Intelligent UI in ChatGPT",
+      "read_level": "官方正文已读",
+      "verified": "Chat中的回答可用图示/交互元素；此次不改变Work/Codex模型；Pro推理选项不支持Intelligent UI",
+      "local_test": "NOT_EXECUTED",
+      "platform_spread": "UNKNOWN"
+    },
+    {
+      "id": "anthropic-haiku-20261007",
+      "publisher": "Anthropic",
+      "date": "2026-10-07",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "section": "Introduction, performance, pricing, availability and further updates",
+      "read_level": "官方正文已读",
+      "verified": "发布Haiku5.5，定位短、重复、成本敏感任务；复杂代码任务仍区分更大模型；不能把厂商性能宣称当本人测试",
+      "local_test": "NOT_EXECUTED",
+      "platform_spread": "UNKNOWN"
+    }
+  ],
+  "read_web_outputs": [
+    "OpenAI Help release notes lines12-28 actual body",
+    "Anthropic page lines17-30,59,135-176 actual body"
+  ],
+  "web_body_read_date": "2026-10-12",
+  "browser_raw": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/补核-v2/浏览器原始回执.json",
+  "backup_identity_original": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/30账号内容地图-20261008/账号表.json",
+  "historical_date_original": "/Volumes/EXTERNAL/自媒体/AI博主1000视频研究-20261007/30账号内容地图-20261008/近期内容表.json",
+  "first_round_pmo_acceptance": "/Volumes/EXTERNAL/自媒体/内容雷达/20261012/PMO验收.json",
+  "source_limit": "官方正文可核；不是下载媒体或本机功能验收；原始页面由链接与实际工具回执定位，不复制全文"
+}
